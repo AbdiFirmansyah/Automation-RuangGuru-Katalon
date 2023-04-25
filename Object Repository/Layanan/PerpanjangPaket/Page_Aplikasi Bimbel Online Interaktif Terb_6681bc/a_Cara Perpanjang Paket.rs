@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cara Perpanjang Paket</name>
+   <tag></tag>
+   <elementGuidId>b579c6ce-436b-4bc0-9fde-ad153521ab8d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.item-services > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='services_item']/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9c194c92-b268-4c01-9aa8-c11b1ec0fa43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tracking-event-type</name>
+      <type>Main</type>
+      <value>landing_page__core__item_click</value>
+      <webElementGuid>8bc2baa2-39b6-477d-bfa8-73b5819a568f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tracking-context</name>
+      <type>Main</type>
+      <value>{&quot;product_name&quot;: &quot;ruangguru&quot;,&quot;cta_action&quot;: &quot;redirection&quot;,&quot;cta_action_detail&quot;: &quot;https://www.ruangguru.com/ruangbelajar/perpanjang-paket&quot;,&quot;item_type&quot;: &quot;link&quot;,&quot;item_name&quot;: &quot;Cara Perpanjang Paket&quot;,&quot;item_category&quot;: &quot;cta&quot;,&quot;item_position&quot;: 7,&quot;item_serial&quot;: null,&quot;section_type&quot;: &quot;navbar&quot;,&quot;section_position&quot;: &quot;header&quot;,&quot;section_name&quot;: &quot;header_navbar&quot;}</value>
+      <webElementGuid>287ea740-25b8-40ee-8927-adf0e0cb7218</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ruangguru.com/ruangbelajar/perpanjang-paket</value>
+      <webElementGuid>af39bac8-e9fb-4797-8103-80caf66d9dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cara Perpanjang Paket</value>
+      <webElementGuid>d4b997c8-f6ee-4a33-8e14-4c7d5fc5bfac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;services_item&quot;)/div[@class=&quot;item-services&quot;]/a[1]</value>
+      <webElementGuid>7f1b5c92-483d-4b3d-a391-4387c94d0ae1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='services_item']/div/a</value>
+      <webElementGuid>30803b08-eb2b-4727-9b46-2f466f652b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cara Perpanjang Paket')]</value>
+      <webElementGuid>ffa08284-86fc-4b2e-965e-150bb2ada48b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimoni'])[1]/following::a[2]</value>
+      <webElementGuid>b9761e21-1baa-44c7-9cf0-61f531225711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beasiswa'])[1]/following::a[3]</value>
+      <webElementGuid>49178454-a23e-480c-aab3-fcdabd57aab7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara Bayar'])[1]/preceding::a[1]</value>
+      <webElementGuid>44cf553b-eb51-4813-836f-0fa939b9a23f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cicilan'])[1]/preceding::a[2]</value>
+      <webElementGuid>a75205ce-2ea7-4869-ab40-9177c8bf52a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cara Perpanjang Paket']/parent::*</value>
+      <webElementGuid>139469f4-8bc8-4c9c-a17f-0ca7f429374f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ruangguru.com/ruangbelajar/perpanjang-paket')]</value>
+      <webElementGuid>303bc1d8-23dd-4781-8bb5-fbaf46041cfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/a</value>
+      <webElementGuid>4abef950-99e8-4caa-9c7d-c57d3120ebd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ruangguru.com/ruangbelajar/perpanjang-paket' and (text() = 'Cara Perpanjang Paket' or . = 'Cara Perpanjang Paket')]</value>
+      <webElementGuid>cef4dd74-6c2c-4c7e-9c9b-a5210fb48b3e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

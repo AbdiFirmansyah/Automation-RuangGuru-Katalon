@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Beli Paket</name>
+   <tag></tag>
+   <elementGuidId>d00eea56-2100-4459-b4db-07f95f3c9956</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-basic-orange.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='slick-slide40']/div/div/div[2]/div/div[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ee4ae084-21d3-49b2-b504-f7a4019d43f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-basic-orange text-white</value>
+      <webElementGuid>18c2516f-dcf6-4f0c-acc5-7d0addf73b21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>65ceb049-7499-4487-be36-9e97bbd3d49d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Beli Paket</value>
+      <webElementGuid>e5964cee-c670-4b0a-abe4-c74ee9423ddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;slick-slide40&quot;)/div[1]/div[@class=&quot;payment-package-detail-card ruanguji bg-top-5 font-black&quot;]/div[@class=&quot;payment-package-detail-card__detail&quot;]/div[@class=&quot;payment-package-detail-card__usp--detail card-package-usp-detail-1&quot;]/div[@class=&quot;payment-package-detail-card__price--buy-package&quot;]/a[1]/button[@class=&quot;button-basic-orange text-white&quot;]</value>
+      <webElementGuid>d2ecf0c6-ba59-4fa7-ba1a-836ae48978d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='slick-slide40']/div/div/div[2]/div/div[2]/a/button</value>
+      <webElementGuid>ae1d1c7f-3683-4e67-af71-441fad92c00d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Previous'])[1]/following::button[1]</value>
+      <webElementGuid>bddc885b-9eed-4f9a-baa0-577e41351dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tryout + Materi'])[1]/following::button[2]</value>
+      <webElementGuid>68dbf2c3-d10b-433d-b653-4dc77089610b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[1]/preceding::button[1]</value>
+      <webElementGuid>64e01977-7a26-4520-9257-c8ffe5dff37f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beli Paket'])[3]/preceding::button[2]</value>
+      <webElementGuid>5789eac5-332f-4f9e-8500-724e2c4e49c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/button</value>
+      <webElementGuid>fd23fced-a2c1-4656-bbe4-5bc620ffbbdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Beli Paket' or . = 'Beli Paket')]</value>
+      <webElementGuid>9c028f23-bc3e-498e-b15b-5df875c3bc06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

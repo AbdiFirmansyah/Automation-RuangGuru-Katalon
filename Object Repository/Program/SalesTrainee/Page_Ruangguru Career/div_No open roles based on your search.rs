@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_No open roles based on your search</name>
+   <tag></tag>
+   <elementGuidId>1755aec4-39ef-4454-894d-c9259c84d906</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.rn-13yce4e.rn-fnigne.rn-ndvcnb.rn-gxnn5r.rn-deolkf.rn-tsbty5.rn-1471scf.rn-1odpvz2.rn-adyw6z.rn-o11vmf.rn-ebii48.rn-vw2c0b.rn-foe95m.rn-t9a87b.rn-1mnahxq.rn-61z16t.rn-p1pxzi.rn-11wrixw.rn-wk8lta.rn-9aemit.rn-1mdbw0j.rn-gy4na3.rn-q4m81j.rn-bauka4.rn-q42fyq.rn-qvutc0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>90dcee12-3172-453b-a2dd-db4d03560bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>2c2d69b8-4d0e-48db-9492-df295d7eee9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-tsbty5 rn-1471scf rn-1odpvz2 rn-adyw6z rn-o11vmf rn-ebii48 rn-vw2c0b rn-foe95m rn-t9a87b rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-q4m81j rn-bauka4 rn-q42fyq rn-qvutc0</value>
+      <webElementGuid>40b6ead2-d5f6-4778-9e25-9d1d118430bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No open roles based on your search</value>
+      <webElementGuid>f4b2f9ce-5ee6-47f6-9286-e6f5938eb9a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-ifAKCX dokwCC&quot;]/div[@class=&quot;rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-zh076v rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bnwqim rn-1lgpqti&quot;]/div[@class=&quot;rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-16y2uox rn-1wbh5a2 rn-1ro0kt6 rn-eqz5dr rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bnwqim rn-1lgpqti&quot;]/div[@class=&quot;rn-150rngu rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-16y2uox rn-1wbh5a2 rn-1ro0kt6 rn-eqz5dr rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-ifefl9 rn-bcqeeo rn-11yh6sk rn-1rnoaur rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bnwqim rn-qr0nzb rn-emqnss rn-1lgpqti&quot;]/div[@class=&quot;rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bnwqim rn-1lgpqti&quot;]/div[@class=&quot;rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-16y2uox rn-1wbh5a2 rn-1ro0kt6 rn-eqz5dr rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-1xfddsp rn-bcqeeo rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-bnwqim rn-1lgpqti&quot;]/div[@class=&quot;rn-1oszu61 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-61z16t rn-p1pxzi rn-11wrixw rn-d0c3f3 rn-ifefl9 rn-bcqeeo rn-wk8lta rn-9aemit rn-gy4na3 rn-1vzzlr8 rn-bnwqim rn-1lgpqti&quot;]/div[@class=&quot;rn-1awozwy rn-1kihuf0 rn-1efd50x rn-14skgim rn-rull8r rn-mm0ijv rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-6koalj rn-1qe8dj5 rn-1mlwlqe rn-eqz5dr rn-1t01tom rn-lchren rn-1qahzrx rn-1jj8364 rn-bxbwst rn-ifefl9 rn-bcqeeo rn-9aemit rn-gy4na3 rn-wi6arp rn-gavwmz rn-bnwqim rn-e7q0ms rn-1lgpqti&quot;]/div[@class=&quot;rn-13yce4e rn-fnigne rn-ndvcnb rn-gxnn5r rn-deolkf rn-tsbty5 rn-1471scf rn-1odpvz2 rn-adyw6z rn-o11vmf rn-ebii48 rn-vw2c0b rn-foe95m rn-t9a87b rn-1mnahxq rn-61z16t rn-p1pxzi rn-11wrixw rn-wk8lta rn-9aemit rn-1mdbw0j rn-gy4na3 rn-q4m81j rn-bauka4 rn-q42fyq rn-qvutc0&quot;]</value>
+      <webElementGuid>a70b3d46-3ba5-442a-8446-0807955492e2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div[2]/div/div/div[2]/div[3]/div/div</value>
+      <webElementGuid>397ee837-de42-48e5-b21f-3fc2f580b043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::div[3]</value>
+      <webElementGuid>e9adc719-d0d0-4aa1-a870-eac386e07a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work with Purpose'])[1]/following::div[20]</value>
+      <webElementGuid>b3cf161c-5918-4b40-9a65-66973cd22813</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Try searching other jobs'])[1]/preceding::div[1]</value>
+      <webElementGuid>fd1f3391-fac9-47d4-bc96-5f31658d49c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2023 Copyright PT Ruang Raya Indonesia'])[1]/preceding::div[6]</value>
+      <webElementGuid>26d465eb-185f-48bf-a10f-e6a957f3ad38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No open roles based on your search']/parent::*</value>
+      <webElementGuid>1acf053c-9b88-45e3-a74e-192617c56030</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div</value>
+      <webElementGuid>6e68008e-389e-4826-b07b-0953c16c14bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'No open roles based on your search' or . = 'No open roles based on your search')]</value>
+      <webElementGuid>3dcd27ab-a33a-4fd2-ae99-53398b8e0ebf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

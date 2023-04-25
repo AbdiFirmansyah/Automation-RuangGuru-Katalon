@@ -17,3 +17,20 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Layanan/PerpanjangPaket/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.mouseOver(findTestObject('Object Repository/Layanan/PerpanjangPaket/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Layanan'))
+
+WebUI.click(findTestObject('Object Repository/Layanan/PerpanjangPaket/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Cara Perpanjang Paket'))
+
+WebUI.click(findTestObject('Object Repository/Layanan/PerpanjangPaket/Page_Perpanjang Paket Belajar  Raih Diskonn_a1bab4/h2_Syarat dan Ketentuan Promo LANJUTBELAJAR'), 
+    FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
+

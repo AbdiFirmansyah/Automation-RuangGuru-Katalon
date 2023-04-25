@@ -17,3 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.mouseOver(findTestObject('Object Repository/Produk/BrainAcademy/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Produk'))
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Bimbel Live Interaktif bersama STAR Mas_167048'))
+
+WebUI.switchToWindowTitle('Bimbel Online & Offline Terbaik di Indonesia | Brain Academy')
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Bimbel Online  Offline Terbaik di Indo_ed1fa9/button_Brain Academy Center_close'))
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Bimbel Online  Offline Terbaik di Indo_ed1fa9/a_Coba Kelas Gratis'))
+
+WebUI.switchToWindowTitle('Coba Gratis Kelas Live Teaching Brain Academy Online Sekarang!')
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Coba Gratis Kelas Live Teaching Brain _d65607/button_Daftar  Masuk'))
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Ruangguru/div_Masukkan nomor HP atau email'))
+
+WebUI.setText(findTestObject('Object Repository/Produk/BrainAcademy/Page_Ruangguru/input_Masukkan nomor HP atau email_emailOrPhone'), 
+    'email salah')
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Ruangguru/button_Lanjutkan'))
+
+WebUI.click(findTestObject('Object Repository/Produk/BrainAcademy/Page_Ruangguru/div_Email yang dimasukkan tidak benar'))
+
+WebUI.closeBrowser()
+

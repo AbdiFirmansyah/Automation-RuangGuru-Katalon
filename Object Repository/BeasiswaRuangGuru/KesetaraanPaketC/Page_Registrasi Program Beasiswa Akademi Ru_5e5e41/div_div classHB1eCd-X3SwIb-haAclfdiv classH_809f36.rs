@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_div classHB1eCd-X3SwIb-haAclfdiv classH_809f36</name>
+   <tag></tag>
+   <elementGuidId>ada3f9b6-69e8-4065-8243-38c20e8f8d83</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.Uc2NEf</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4320720-d933-415c-bbd9-1a6977a8cff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Uc2NEf</value>
+      <webElementGuid>4df05880-d70a-4954-b6cc-707155fb44ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>&lt;div class=&quot;HB1eCd-X3SwIb-haAclf&quot;>&lt;div class=&quot;HB1eCd-X3SwIb-i8xkGf&quot;>&lt;div class=&quot;tk3N6e-cXJiPb tk3N6e-cXJiPb-TSZdd tk3N6e-cXJiPb-GMvhG&quot;>JavaScript tidak diaktifkan pada browser, jadi file ini tidak dapat dibuka. Aktifkan dan muat ulang.&lt;/div>&lt;/div>&lt;br>&lt;/div>Registrasi Program Beasiswa Akademi Ruangguru - SKB &amp; PKBMHalo, Warga Belajar!Program Beasiswa Akademi Ruangguru bertujuan untuk mempersiapkan Warga Belajar dalam menghadapi Ujian Pendidikan Kesetaraan dan ujian masuk universitas (bagi yang ingin melanjutkan kuliah).Pelatihan ini bersifat GRATIS. Jika kamu terpilih untuk menerima program, kamu bisa mendapatkan :- Akses Brain Academy Online : pendampingan belajar bersama master teacher- Akses Tryout Ujian Kesetaraan &amp; UTBK secara berkala- Grup diskusi- Webinar dengan para pakar- Konseling personal dengan konselorTerima Kasih :)Login ke Google untuk menyimpan progres. Pelajari lebih lanjut* Menunjukkan pertanyaan yang wajib diisiApakah Anda sudah pernah daftar pada Program Pelatihan Ruangguru sebelumnya? *Ya, sudah pernah mengikuti Program Beasiswa Akademi Ruangguru (SKB &amp; PKBM)Ya, sudah pernah mengikuti Program Bimbingan Intensif (Prakerja)Belum pernah mengikuti program pelatihan dari RuangguruYang lain:BerikutnyaHalaman 1 dari 8Kosongkan formulirJangan pernah mengirimkan sandi melalui Google Formulir.Formulir ini dibuat dalam PT Ruang Raya Indonesia. Laporkan Penyalahgunaan Formulir  </value>
+      <webElementGuid>6a2208ab-f53e-4bb3-96f3-d1561e353c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;HB1eCd-UMrnmb&quot;]/body[@class=&quot;D8bnZd&quot;]/div[@class=&quot;Uc2NEf&quot;]</value>
+      <webElementGuid>a03e43e5-a0a0-4562-a862-38e5000aba06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div</value>
+      <webElementGuid>f9ba6e32-4f77-4fa2-a6f3-6956bf9a8370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '&lt;div class=&quot;HB1eCd-X3SwIb-haAclf&quot;>&lt;div class=&quot;HB1eCd-X3SwIb-i8xkGf&quot;>&lt;div class=&quot;tk3N6e-cXJiPb tk3N6e-cXJiPb-TSZdd tk3N6e-cXJiPb-GMvhG&quot;>JavaScript tidak diaktifkan pada browser, jadi file ini tidak dapat dibuka. Aktifkan dan muat ulang.&lt;/div>&lt;/div>&lt;br>&lt;/div>Registrasi Program Beasiswa Akademi Ruangguru - SKB &amp; PKBMHalo, Warga Belajar!Program Beasiswa Akademi Ruangguru bertujuan untuk mempersiapkan Warga Belajar dalam menghadapi Ujian Pendidikan Kesetaraan dan ujian masuk universitas (bagi yang ingin melanjutkan kuliah).Pelatihan ini bersifat GRATIS. Jika kamu terpilih untuk menerima program, kamu bisa mendapatkan :- Akses Brain Academy Online : pendampingan belajar bersama master teacher- Akses Tryout Ujian Kesetaraan &amp; UTBK secara berkala- Grup diskusi- Webinar dengan para pakar- Konseling personal dengan konselorTerima Kasih :)Login ke Google untuk menyimpan progres. Pelajari lebih lanjut* Menunjukkan pertanyaan yang wajib diisiApakah Anda sudah pernah daftar pada Program Pelatihan Ruangguru sebelumnya? *Ya, sudah pernah mengikuti Program Beasiswa Akademi Ruangguru (SKB &amp; PKBM)Ya, sudah pernah mengikuti Program Bimbingan Intensif (Prakerja)Belum pernah mengikuti program pelatihan dari RuangguruYang lain:BerikutnyaHalaman 1 dari 8Kosongkan formulirJangan pernah mengirimkan sandi melalui Google Formulir.Formulir ini dibuat dalam PT Ruang Raya Indonesia. Laporkan Penyalahgunaan Formulir  ' or . = '&lt;div class=&quot;HB1eCd-X3SwIb-haAclf&quot;>&lt;div class=&quot;HB1eCd-X3SwIb-i8xkGf&quot;>&lt;div class=&quot;tk3N6e-cXJiPb tk3N6e-cXJiPb-TSZdd tk3N6e-cXJiPb-GMvhG&quot;>JavaScript tidak diaktifkan pada browser, jadi file ini tidak dapat dibuka. Aktifkan dan muat ulang.&lt;/div>&lt;/div>&lt;br>&lt;/div>Registrasi Program Beasiswa Akademi Ruangguru - SKB &amp; PKBMHalo, Warga Belajar!Program Beasiswa Akademi Ruangguru bertujuan untuk mempersiapkan Warga Belajar dalam menghadapi Ujian Pendidikan Kesetaraan dan ujian masuk universitas (bagi yang ingin melanjutkan kuliah).Pelatihan ini bersifat GRATIS. Jika kamu terpilih untuk menerima program, kamu bisa mendapatkan :- Akses Brain Academy Online : pendampingan belajar bersama master teacher- Akses Tryout Ujian Kesetaraan &amp; UTBK secara berkala- Grup diskusi- Webinar dengan para pakar- Konseling personal dengan konselorTerima Kasih :)Login ke Google untuk menyimpan progres. Pelajari lebih lanjut* Menunjukkan pertanyaan yang wajib diisiApakah Anda sudah pernah daftar pada Program Pelatihan Ruangguru sebelumnya? *Ya, sudah pernah mengikuti Program Beasiswa Akademi Ruangguru (SKB &amp; PKBM)Ya, sudah pernah mengikuti Program Bimbingan Intensif (Prakerja)Belum pernah mengikuti program pelatihan dari RuangguruYang lain:BerikutnyaHalaman 1 dari 8Kosongkan formulirJangan pernah mengirimkan sandi melalui Google Formulir.Formulir ini dibuat dalam PT Ruang Raya Indonesia. Laporkan Penyalahgunaan Formulir  ')]</value>
+      <webElementGuid>311f4ebe-a9af-4df6-a29c-364c684fe684</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

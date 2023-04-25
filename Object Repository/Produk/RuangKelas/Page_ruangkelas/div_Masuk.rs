@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masuk</name>
+   <tag></tag>
+   <elementGuidId>b7d1d222-52f4-4982-aa5e-231ae10b954b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.justify-between.items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/div/a/button/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0cc524ec-6942-4e0f-bb13-aa293620cb4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex justify-between items-center</value>
+      <webElementGuid>73f5464b-5608-4ace-8488-7259afe7e152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masuk</value>
+      <webElementGuid>6de1ee3b-ed05-4ffe-a33a-49948e4bde08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-screen h-screen overflow-y-auto flex bg-white css-jl03ly&quot;]/div[@class=&quot;w-full xl:w-1/2 p-0 xl:p-24 flex justify-center items-center&quot;]/div[@class=&quot;relative h-full xl:h-auto css-1lgf8dl&quot;]/div[@class=&quot;relative rounded-xl xl:rounded-none px-4 py-8 xl:px-0 xl:py-0 m-3 xl:m-0 bg-white css-4tuwvy&quot;]/a[@class=&quot;text-primary-two-500 text-sm cursor-pointer flex-grow-1 w-full&quot;]/button[@class=&quot;relative outline-none focus:outline-none font-source-sans border-solid border align-center h-12 text-base text-white bg-primary-one-500 border-primary-one-500 hover:bg-primary-one-300 hover:border-primary-one-300 transition duration-200 ease-in-out w-full rounded-full cursor-pointer w-full&quot;]/div[1]/div[@class=&quot;flex justify-between items-center&quot;]</value>
+      <webElementGuid>5101163a-9c21-468a-9822-ad48d019cfcb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/div/a/button/div/div</value>
+      <webElementGuid>a9a89d76-fe2d-4bd9-8002-ec1c403d4192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau'])[1]/preceding::div[2]</value>
+      <webElementGuid>85dda018-a569-47a9-a8d3-ecfab7db11e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div/div</value>
+      <webElementGuid>22402418-2ab6-4349-9aec-43280ad2f709</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masuk' or . = 'Masuk')]</value>
+      <webElementGuid>a03b192e-d492-46ec-adb3-97f884739512</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
