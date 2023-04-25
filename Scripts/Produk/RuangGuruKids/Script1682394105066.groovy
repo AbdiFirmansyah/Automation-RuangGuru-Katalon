@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Produk'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Siapkan masa depan sang buah hati dari _baea62'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Layanan Belajar Terbaik untuk Anak Usi_538781/a_Lihat Program'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Layanan Belajar Terbaik untuk Anak Usi_538781/button_Bahasa'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Layanan Belajar Terbaik untuk Anak Usi_538781/span_Selengkapnya'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_Layanan Belajar Terbaik untuk Anak Usi_538781/a_Lihat Program_1'))
+
+WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_KursusLes Matematika  Bahasa Inggris T_ce5195/a_Beli'))
+
+WebUI.switchToWindowTitle('Langganan ruangbelajar')
+
