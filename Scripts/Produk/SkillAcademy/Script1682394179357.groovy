@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/SkillAcademy/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/SkillAcademy/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Produk'))
+
+WebUI.click(findTestObject('Object Repository/SkillAcademy/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Kursus online untuk meningkatkan techni_9040f7'))
+
+WebUI.switchToWindowTitle('Kursus & Kelas Online Bersertifikat Terbaik | Skill Academy')
+
+WebUI.click(findTestObject('Object Repository/SkillAcademy/Page_Kursus  Kelas Online Bersertifikat Ter_36758b/p_'))
+
+WebUI.click(findTestObject('Object Repository/SkillAcademy/Page_Kursus  Kelas Online Bersertifikat Ter_36758b/div_DAFTARMASUK'))
+
+WebUI.setText(findTestObject('Object Repository/SkillAcademy/Page_Skill Academy/input_Masuk ke akun Skill Academy kamu_css-1j6p4yb'), 
+    'abdifirmansyah72@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/SkillAcademy/Page_Skill Academy/input_Email tidak valid_css-1j6p4yb'), 
+    '5P+s+FfPGX+9A6lrdXP7gw==')
+
+WebUI.closeBrowser()
+
