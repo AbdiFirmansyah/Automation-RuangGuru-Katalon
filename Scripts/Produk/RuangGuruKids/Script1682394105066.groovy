@@ -41,3 +41,5 @@ WebUI.click(findTestObject('Object Repository/RuangGuruKids/Page_KursusLes Matem
 
 WebUI.switchToWindowTitle('Langganan ruangbelajar')
 
+WebUI.closeBrowser()
+

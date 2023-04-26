@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Layanan'))
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Cicilan'))
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Sekarang Ruangguru Bisa Dicicil 12x  D_7a0c60/div_Yah promo yang kamu cari belum ada nih _c2d070'))
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Sekarang Ruangguru Bisa Dicicil 12x  D_7a0c60/label_Layanan Ruangguru'))
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Sekarang Ruangguru Bisa Dicicil 12x  D_7a0c60/label_Jumlah Cicilan'))
+
+WebUI.click(findTestObject('Object Repository/Cicilan/Page_Sekarang Ruangguru Bisa Dicicil 12x  D_7a0c60/label_Metode Cicilan'))
+
+WebUI.closeBrowser()
+

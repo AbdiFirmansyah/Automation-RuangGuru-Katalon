@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://www.ruangguru.com/')
 
 WebUI.click(findTestObject('Object Repository/RuangGuruPrivat/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
