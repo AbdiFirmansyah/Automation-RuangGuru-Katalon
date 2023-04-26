@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Berikutnya</name>
+   <tag></tag>
+   <elementGuidId>adb7d4db-43ba-450c-8af4-e064bc0f7cac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.l4V7wb.Fxmcue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8161eed1-1817-4456-8682-a289e6e0b862</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>l4V7wb Fxmcue</value>
+      <webElementGuid>cc975a38-3d1b-4495-883b-14be326566a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berikutnya</value>
+      <webElementGuid>a6ecf13c-3a83-43e1-acc6-b54ce984331e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;ThHDze&quot;]/div[@class=&quot;DE3NNc CekdCb&quot;]/div[@class=&quot;lRwqcd&quot;]/div[@class=&quot;uArJ5e UQuaGc YhQJj zo8FOc ctEux qs41qe M9Bg4d&quot;]/span[@class=&quot;l4V7wb Fxmcue&quot;]</value>
+      <webElementGuid>845abaf5-c5a0-4ad7-821c-64094eb913cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[3]/div/div/div/span</value>
+      <webElementGuid>e0452412-2ef7-4b15-85fe-0aad9fea4529</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yang lain:'])[1]/following::span[2]</value>
+      <webElementGuid>771cbff9-79db-4604-945b-cf2566de56f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum pernah mengikuti program pelatihan dari Ruangguru'])[1]/following::span[3]</value>
+      <webElementGuid>673c246c-2cdf-4cb1-a42d-e9d292384b5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kosongkan formulir'])[1]/preceding::span[2]</value>
+      <webElementGuid>75b6a619-2420-440b-88d9-3a197e150619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/span</value>
+      <webElementGuid>3d840780-2fa0-4bff-b476-8a68d9b450f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Berikutnya' or . = 'Berikutnya')]</value>
+      <webElementGuid>67e80b59-a9af-409a-b036-edd4f5266a64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

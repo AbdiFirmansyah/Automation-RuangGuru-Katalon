@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Selection Process</name>
+   <tag></tag>
+   <elementGuidId>3b5200be-7051-4118-b8e6-8609674f2611</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_164246809314121']/div[2]/div[2]/div/div/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>80481b10-8420-4c00-b435-701b92ac0318</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-btn</value>
+      <webElementGuid>7d325316-d7a4-4c05-96df-5a3a356b036e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>wrapper-selection</value>
+      <webElementGuid>ba2c1a7d-c702-4f1f-ace1-1851d3d60e21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selection Process</value>
+      <webElementGuid>5b2ddd9c-977d-4cab-ad3f-7e6fb8734813</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_164246809314121&quot;)/div[@class=&quot;map&quot;]/div[@class=&quot;navigator normalize-css&quot;]/div[@class=&quot;page-center-navigator&quot;]/div[@class=&quot;navigator-content&quot;]/div[@class=&quot;nav-tab&quot;]/button[@class=&quot;nav-btn&quot;]</value>
+      <webElementGuid>0989f21c-965d-4c39-854b-40ddfbcc5efb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_164246809314121']/div[2]/div[2]/div/div/div[4]/button</value>
+      <webElementGuid>b1ecce1c-4231-49f5-b2e2-60a7b87469e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Types of Roles'])[1]/following::button[1]</value>
+      <webElementGuid>5490132a-8e18-4ca3-8077-acfb569a8971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coaching &amp; Mentorship Program'])[1]/following::button[2]</value>
+      <webElementGuid>db301388-864d-468f-884e-22ce78793ee7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimony'])[1]/preceding::button[1]</value>
+      <webElementGuid>b9cf55b7-7009-4e2f-89f5-10ae9a8bbe68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/preceding::button[2]</value>
+      <webElementGuid>dc49b1eb-520c-4970-b5e9-63826ca4c554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selection Process']/parent::*</value>
+      <webElementGuid>a1a99e6d-37e5-4973-b828-289818afaefc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button</value>
+      <webElementGuid>2d11f190-c92e-4ce7-b60f-e8c13dbc1120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Selection Process' or . = 'Selection Process')]</value>
+      <webElementGuid>ed9e6516-f134-4495-b8f8-3fac45eaa773</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

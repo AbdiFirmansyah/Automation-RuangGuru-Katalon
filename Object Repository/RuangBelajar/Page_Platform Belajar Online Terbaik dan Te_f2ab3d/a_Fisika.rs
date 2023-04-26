@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fisika</name>
+   <tag></tag>
+   <elementGuidId>5d735e4c-793f-44a2-b445-bafb1c52224d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/div[2]/div[2]/a[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57ed7893-ece8-42b0-9416-c151319aea70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-link css-itonpk</value>
+      <webElementGuid>a4fcbaea-293b-4a0a-b4ac-7a3d0c536485</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/sma-kelas-12-kurikulum-merdeka/fisika</value>
+      <webElementGuid>042fe1b3-0b20-4e4e-a7d3-dfad445112a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fisika</value>
+      <webElementGuid>9c20b657-691f-4b7c-9471-46043cda9e2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1f5whys&quot;]/div[@class=&quot;chakra-stack css-owjkmg&quot;]/div[@class=&quot;chakra-stack css-1gx74it&quot;]/div[@class=&quot;css-1aqz6gt&quot;]/div[@class=&quot;css-1vhv2lo&quot;]/a[@class=&quot;chakra-link css-itonpk&quot;]</value>
+      <webElementGuid>4c25fcf8-2570-4375-9d65-7a6e11403208</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/div[2]/div[2]/a[6]</value>
+      <webElementGuid>355bd37b-deea-4302-9142-4ab47983d5ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kimia'])[1]/following::a[1]</value>
+      <webElementGuid>51cf5f43-307e-42e7-a74b-707ad19e9206</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biologi'])[1]/following::a[2]</value>
+      <webElementGuid>55f7eb5c-d5ce-4b8f-b72a-087bb76ecdae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ekonomi'])[1]/preceding::a[1]</value>
+      <webElementGuid>a1a0310f-1206-46f7-b6af-b49974efbe81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/fisika')]</value>
+      <webElementGuid>2a5f44b5-c51d-41de-b8d7-d53ef34a1355</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>f69bf95f-d4e6-44d9-8d71-e7bac8636109</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/fisika' and (text() = 'Fisika' or . = 'Fisika')]</value>
+      <webElementGuid>55e0d2e8-c07c-4bf9-9a96-5c729217699b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Layanan Ruangguru</name>
+   <tag></tag>
+   <elementGuidId>82e5eebe-b856-4710-98f6-599ac234d049</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='myBtnContainer']/div/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>7a58fdcb-7f83-4d72-83ce-951abc2695fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Layanan Ruangguru </value>
+      <webElementGuid>e4f4c873-d65b-4f3e-86b5-9b481203433b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;myBtnContainer&quot;)/div[@class=&quot;filter-item-wrap&quot;]/div[@class=&quot;filter-item produk&quot;]/label[1]</value>
+      <webElementGuid>8a256618-68a9-44c6-b295-b181b0001391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='myBtnContainer']/div/div/label</value>
+      <webElementGuid>0bdeb8eb-4935-44e1-b5d8-f106229e23ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruangguru bisa DICICIL'])[1]/following::label[1]</value>
+      <webElementGuid>6d61f42f-cd47-4927-9ffd-05eac2897f68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Layanan Ruangguru'])[2]/preceding::label[1]</value>
+      <webElementGuid>8a6c0635-182d-4e94-a48b-6db9d00c3aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Semua'])[1]/preceding::label[2]</value>
+      <webElementGuid>5149a6d6-4172-42a5-98c4-792cf762bf6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Layanan Ruangguru']/parent::*</value>
+      <webElementGuid>dc342468-9b9e-4c11-bedd-961cda84f544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>4fd310bf-c76e-4667-8600-1751d5a7faec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Layanan Ruangguru ' or . = 'Layanan Ruangguru ')]</value>
+      <webElementGuid>cba8d364-7524-44f9-818b-39e5b281d9dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

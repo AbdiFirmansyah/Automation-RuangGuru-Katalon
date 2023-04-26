@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Komponen Sistem Saraf</name>
+   <tag></tag>
+   <elementGuidId>70b4bad6-8aa6-4f2c-a198-086620411802</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/article/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chakra-text.css-17cqkbj</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d9bc8a71-d0ef-4874-a730-00e739d0eadf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-text css-17cqkbj</value>
+      <webElementGuid>a9eada85-2f9c-475c-95bd-5158a85f326c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/v/komponen-sistem-saraf-subtopi-d7zm8d8n-hr-sma-kelas-12-kurikulum-merdeka</value>
+      <webElementGuid>2a49f4f6-5926-42f4-924e-898462bdafc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Komponen Sistem Saraf</value>
+      <webElementGuid>5afb2c50-9f84-403c-8804-afe2a747aaea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1f5whys&quot;]/div[@class=&quot;css-1ubbntx&quot;]/section[@class=&quot;chakra-stack css-evkuat&quot;]/article[@class=&quot;chakra-stack css-1egbou&quot;]/div[@class=&quot;css-ad2za6&quot;]/div[@class=&quot;css-lcuzc0&quot;]/div[@class=&quot;css-11x96np&quot;]/div[@class=&quot;css-1a52s2z&quot;]/a[@class=&quot;chakra-text css-17cqkbj&quot;]</value>
+      <webElementGuid>2c2d937d-ebc4-47a7-b156-1f33cae37601</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/article/div/div/div[2]/div/a</value>
+      <webElementGuid>c87d40fb-5a91-4cd9-aa9d-9645f9f4c9d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Komponen Sistem Saraf')]</value>
+      <webElementGuid>d4c1d156-2118-4661-a280-ad290b5ab1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gangguan Sistem Saraf'])[1]/following::a[43]</value>
+      <webElementGuid>3651369a-cef8-49ab-826d-7ab0d80e23e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Saraf Tepi'])[1]/following::a[45]</value>
+      <webElementGuid>a8b8e39f-8dc3-4151-af23-908601fddf6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mekanisme Penghantaran Impuls'])[2]/preceding::a[1]</value>
+      <webElementGuid>bbceb1f6-142b-467b-8cd6-ed98d60818c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sinapsis dan Neurotransmitter'])[2]/preceding::a[2]</value>
+      <webElementGuid>fd6dea39-3fe7-400e-8c8c-72f70e4dad67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/ruangbelajar/v/komponen-sistem-saraf-subtopi-d7zm8d8n-hr-sma-kelas-12-kurikulum-merdeka')])[2]</value>
+      <webElementGuid>e94d3daf-73a5-42df-912b-cdd71bb05b90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div[2]/div/a</value>
+      <webElementGuid>ef236254-f03a-40f9-bbfb-d8537caa8274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/v/komponen-sistem-saraf-subtopi-d7zm8d8n-hr-sma-kelas-12-kurikulum-merdeka' and (text() = 'Komponen Sistem Saraf' or . = 'Komponen Sistem Saraf')]</value>
+      <webElementGuid>e4e615e8-c93b-4087-becf-01819499a19c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

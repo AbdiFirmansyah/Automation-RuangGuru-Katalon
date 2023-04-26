@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Komponen Sistem SarafStimulus Impuls Re_e75a3d</name>
+   <tag></tag>
+   <elementGuidId>9d0ed954-5d9d-46f9-89db-089ea7558aa6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/section/article/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1a52s2z</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55b35181-5451-4a80-85fd-68600a829134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1a52s2z</value>
+      <webElementGuid>6bcd526c-7839-422c-9c50-d10b8c98498e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Komponen Sistem SarafStimulus? Impuls? Reseptor? Efektor? Neuron? Neuroglia? Saraf pusat? Saraf tepi? Wow istilah baru semua tuh ya, gimana pahamnya? Oke gausah panik karena bakalan dijelasin semuanya di video konsep kilat ini. Siapin catatannya juga ya jangan lupa, oke?</value>
+      <webElementGuid>d01238e9-5212-41a5-aa5c-d719395ace0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1f5whys&quot;]/div[@class=&quot;css-1ubbntx&quot;]/section[@class=&quot;chakra-stack css-evkuat&quot;]/article[@class=&quot;chakra-stack css-1egbou&quot;]/div[@class=&quot;css-ad2za6&quot;]/div[@class=&quot;css-lcuzc0&quot;]/div[@class=&quot;css-11x96np&quot;]/div[@class=&quot;css-1a52s2z&quot;]</value>
+      <webElementGuid>e62fa65d-22d4-4bac-9369-57eb306968a2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/section/article/div/div/div[2]/div</value>
+      <webElementGuid>4167383e-9608-4140-9900-fc0cb10f0daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gangguan Sistem Saraf'])[1]/following::div[179]</value>
+      <webElementGuid>5eca0bef-d397-48f0-af27-fba64c502cb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Saraf Tepi'])[1]/following::div[191]</value>
+      <webElementGuid>08d89a7d-b98c-48f9-9475-5efe2eb5ef1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mekanisme Penghantaran Impuls'])[2]/preceding::div[1]</value>
+      <webElementGuid>ccd9e738-dcd9-4968-a54a-1419721412ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div[2]/div</value>
+      <webElementGuid>e52b4d31-8e34-4c97-bc4d-c94b36c6f655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Komponen Sistem SarafStimulus? Impuls? Reseptor? Efektor? Neuron? Neuroglia? Saraf pusat? Saraf tepi? Wow istilah baru semua tuh ya, gimana pahamnya? Oke gausah panik karena bakalan dijelasin semuanya di video konsep kilat ini. Siapin catatannya juga ya jangan lupa, oke?' or . = 'Komponen Sistem SarafStimulus? Impuls? Reseptor? Efektor? Neuron? Neuroglia? Saraf pusat? Saraf tepi? Wow istilah baru semua tuh ya, gimana pahamnya? Oke gausah panik karena bakalan dijelasin semuanya di video konsep kilat ini. Siapin catatannya juga ya jangan lupa, oke?')]</value>
+      <webElementGuid>e350a0fd-8e61-42df-b00a-a8d9b2fc3461</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

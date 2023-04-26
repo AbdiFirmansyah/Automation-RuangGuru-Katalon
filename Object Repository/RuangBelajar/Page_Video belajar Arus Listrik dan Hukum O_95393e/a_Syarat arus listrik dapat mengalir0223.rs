@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Syarat arus listrik dapat mengalir0223</name>
+   <tag></tag>
+   <elementGuidId>01b4d5b0-1cb2-4057-bdbc-5eac1908764c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='video-content-container']/div[2]/div/div/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chakra-stack.css-1shz3wb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>32226500-ab66-4c66-bb10-322c5a827c9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-1shz3wb</value>
+      <webElementGuid>f5157e16-cc50-4853-a9c1-3b4717ac844c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/v/arus-listrik-dan-hukum-ohm-subtopi-9mfzn9ui-hr-sma-kelas-12-kurikulum-merdeka?t=143</value>
+      <webElementGuid>9b6797b0-3edb-43a7-8345-7def5e57881d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Syarat arus listrik dapat mengalir02:23</value>
+      <webElementGuid>0ec87620-e02e-4749-88ed-72cd0748ae34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;video-content-container&quot;)/div[@class=&quot;css-cp5lzz&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-1g6g294&quot;]/div[@class=&quot;css-1a4pz4o&quot;]/div[@class=&quot;css-17qnj1m&quot;]/div[@class=&quot;css-1ldm68t&quot;]/div[@class=&quot;css-1q9tya8&quot;]/a[@class=&quot;chakra-stack css-1shz3wb&quot;]</value>
+      <webElementGuid>a3bcc3cc-2a0f-402f-bc98-1f231b6eef94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='video-content-container']/div[2]/div/div/div/div/div/div/a</value>
+      <webElementGuid>4d226ab8-46e3-4d38-b923-edeaa59f0790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arus Listrik dan Hukum Ohm'])[3]/following::a[1]</value>
+      <webElementGuid>f57d0293-bebd-4ff3-8ff5-712cc5020b61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto'])[1]/following::a[1]</value>
+      <webElementGuid>75b2b51f-4ab3-475d-9c49-1ca37df723ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk/Daftar'])[2]/preceding::a[32]</value>
+      <webElementGuid>8b9d6ff5-5efe-4903-bb0e-7e1de11657c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langganan'])[2]/preceding::a[32]</value>
+      <webElementGuid>428ad457-7f0c-4b52-ba1f-3ff81b78eb3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ruangbelajar/v/arus-listrik-dan-hukum-ohm-subtopi-9mfzn9ui-hr-sma-kelas-12-kurikulum-merdeka?t=143')]</value>
+      <webElementGuid>82e3630a-2abc-4bb8-ac8b-84c88d1f8ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div[2]/div/div/div/div/div/div/a</value>
+      <webElementGuid>e99c3523-008e-41ec-b178-b2e996c02ee2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/v/arus-listrik-dan-hukum-ohm-subtopi-9mfzn9ui-hr-sma-kelas-12-kurikulum-merdeka?t=143' and (text() = 'Syarat arus listrik dapat mengalir02:23' or . = 'Syarat arus listrik dapat mengalir02:23')]</value>
+      <webElementGuid>df061017-d420-4642-8818-468bafd199e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

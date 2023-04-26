@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Kapan sesi pembelajaran berlangsung</name>
+   <tag></tag>
+   <elementGuidId>cec19aed-2ce6-445a-85af-a71a0e0ffccb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='faq']/div/div/div[2]/div/div[8]/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>31d48ec6-b32e-4ede-8bff-02b02901af23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kapan sesi pembelajaran berlangsung?</value>
+      <webElementGuid>32736724-38d7-4a0c-9c5a-58c33c3c3901</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;faq&quot;)/div[@class=&quot;page-center&quot;]/div[@class=&quot;faq-content&quot;]/div[@class=&quot;faq-content_accordion&quot;]/div[@class=&quot;accordion-faq&quot;]/div[@class=&quot;container-acc2&quot;]/div[@class=&quot;accordion2&quot;]/div[@class=&quot;accordion-subject&quot;]/div[@class=&quot;accordion-text&quot;]/p[1]</value>
+      <webElementGuid>f7edfef2-57db-4ab2-9397-85716129feab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='faq']/div/div/div[2]/div/div[8]/div/div/div/p</value>
+      <webElementGuid>26294689-f3d8-4cc0-8e0b-6b7f671bbd37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menyelesaikan 3 kelas Skill Academy yang diberikan dalam program'])[1]/following::p[3]</value>
+      <webElementGuid>d50b73c2-064e-4e0c-be19-84649bfbedb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mengerjakan tugas / challenge yang diberikan selama program'])[1]/following::p[3]</value>
+      <webElementGuid>de320e77-122c-4993-8daa-8cc17ee2bcb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roboguru'])[1]/preceding::p[18]</value>
+      <webElementGuid>1728096e-9e71-4f14-b8c0-c34d42735319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Roboguru Plus'])[1]/preceding::p[18]</value>
+      <webElementGuid>3ae5fd7e-26a9-49e2-be77-db98e9d80916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kapan sesi pembelajaran berlangsung?']/parent::*</value>
+      <webElementGuid>ece60354-f5de-4a9e-b1bb-63276af49a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/p</value>
+      <webElementGuid>cfa9d19f-3a28-4902-978f-009980af5787</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kapan sesi pembelajaran berlangsung?' or . = 'Kapan sesi pembelajaran berlangsung?')]</value>
+      <webElementGuid>beb09c74-d1e2-4db2-9dda-b29b9275ec01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masuk  Daftar_css-st6aq7</name>
+   <tag></tag>
+   <elementGuidId>0257a151-c9b2-40fa-a836-3da90db70d2a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal-root']/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-st6aq7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2d0f2a3a-e25f-4822-8925-fe12b725a710</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-st6aq7</value>
+      <webElementGuid>8be9f47d-bf3a-4bc9-948d-b4f7792bd914</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal-root&quot;)/div[1]/div[@class=&quot;css-15fvfn7&quot;]/div[@class=&quot;css-eele9v&quot;]/div[@class=&quot;css-1wkd45b&quot;]/div[@class=&quot;css-1n8jbs3&quot;]/div[@class=&quot;css-st6aq7&quot;]</value>
+      <webElementGuid>788a39c5-e026-42e6-b595-dd3e871a3ce5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal-root']/div/div/div/div/div/div</value>
+      <webElementGuid>9b614907-3c3d-46ae-a898-5c249042df94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk / Daftar'])[2]/following::div[16]</value>
+      <webElementGuid>7337b3ce-d0b5-48e2-877a-fb8a1cd0d4cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket Saya'])[1]/following::div[17]</value>
+      <webElementGuid>0ca813db-0a22-44ed-8a3f-29813b393cc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilih Usia dan Kursus Anak Anda'])[2]/preceding::div[1]</value>
+      <webElementGuid>08a318d8-da88-4abb-b7ea-51dce4340415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>92b59896-07c0-41da-b3e1-4810f68a42cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

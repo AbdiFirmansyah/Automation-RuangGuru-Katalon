@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_COBA GRATISKonsep Kilat0</name>
+   <tag></tag>
+   <elementGuidId>4bc02f8b-ff33-43ee-a8e1-f4c97b2f66a2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div[3]/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chakra-stack.css-1c09opa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>bbe4574d-ad8a-4d6c-b84e-606526c0a1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-1c09opa</value>
+      <webElementGuid>79f14210-a970-43fb-9497-e70299060959</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi/struktur-dan-fungsi-sel-pada-sistem-pernapasan/konsep-kilat</value>
+      <webElementGuid>558f078d-0f28-48ed-8408-aa12d71c5720</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COBA GRATISKonsep Kilat0%</value>
+      <webElementGuid>1bb67c10-3597-4a95-b512-63221fca9b62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1f5whys&quot;]/div[@class=&quot;css-5m9o76&quot;]/div[@class=&quot;chakra-container css-3slsst&quot;]/div[@class=&quot;chakra-stack css-x9lkpl&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-34zyy1&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;chakra-skeleton css-1qwjt25&quot;]/a[@class=&quot;chakra-stack css-1c09opa&quot;]</value>
+      <webElementGuid>41fa3291-064b-47a3-a7bd-d64bae8a5842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div[3]/div/div/div/div/a</value>
+      <webElementGuid>7605c328-e57e-4f86-99bd-676cf7be4ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Struktur dan Fungsi Sel pada Sistem Pernapasan ⚡️'])[2]/following::a[1]</value>
+      <webElementGuid>e8a249d2-7360-4a3c-a547-992c60c99e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Struktur dan Fungsi Sel pada Sistem Pernapasan ⚡️'])[1]/following::a[1]</value>
+      <webElementGuid>fbf29eb1-e4ee-412e-a420-67b3f1fe2489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organ Pernapasan Manusia'])[1]/preceding::a[1]</value>
+      <webElementGuid>8729a48b-541d-4777-8ef0-e877c5253c24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi/struktur-dan-fungsi-sel-pada-sistem-pernapasan/konsep-kilat')]</value>
+      <webElementGuid>250e4e6f-5786-4a07-bd80-8c5a3b35f31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a</value>
+      <webElementGuid>c23a15dc-5263-417e-8731-66ef73371f30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi/struktur-dan-fungsi-sel-pada-sistem-pernapasan/konsep-kilat' and (text() = 'COBA GRATISKonsep Kilat0%' or . = 'COBA GRATISKonsep Kilat0%')]</value>
+      <webElementGuid>3e4f36df-c750-4e5b-810f-d75cb914c075</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
