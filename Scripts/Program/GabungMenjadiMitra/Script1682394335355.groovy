@@ -17,3 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Program'))
+
+WebUI.click(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Daftar Program Terbaru Ruangguru, Yuk _ccafde/a_Lihat Detail'))
+
+WebUI.click(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Akademia - Ruangguru/button_Register'))
+
+WebUI.click(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Akademia - Ruangguru/svg_Muat lebih banyak_chakra-icon css-onkibi'))
+
+WebUI.click(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Akademia - Ruangguru/button_Login'))
+
+WebUI.setText(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Masuk - Ruang Pengajar Web/input_Ruang Pengajar Web_email'), 
+    'abdifirmansyah72@gmail.com')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Gabung Menjadi Mitra/Page_Masuk - Ruang Pengajar Web/input_Ruang Pengajar Web_password'), 
+    '5P+s+FfPGX+9A6lrdXP7gw==')
+
+WebUI.closeBrowser()
+

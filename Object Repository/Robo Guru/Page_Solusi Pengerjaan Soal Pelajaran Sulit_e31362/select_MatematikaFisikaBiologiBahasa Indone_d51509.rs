@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_MatematikaFisikaBiologiBahasa Indone_d51509</name>
+   <tag></tag>
+   <elementGuidId>f3fdeb3e-77e6-45f6-bc8d-1bb9003bd29a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.chakra-select.css-3jflzl</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/form/div/div[2]/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>bdca5926-1a82-40c2-b08b-cbc89b1af2bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-3jflzl</value>
+      <webElementGuid>944699e8-dbfc-4147-9722-36f242eb6ed3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MatematikaFisikaBiologiBahasa IndonesiaBahasa InggrisGeografiSosiologiSejarahEkonomiPenjaskesPPKNAgamaSeniTeknologi InformasiBahasa Daerah</value>
+      <webElementGuid>cd47178b-bc3a-4ab4-bb4d-81e2453c9cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-cdszjk&quot;]/div[@class=&quot;css-1sttl7&quot;]/div[@class=&quot;css-13gnsmc&quot;]/form[@class=&quot;chakra-stack css-18c5irk&quot;]/div[@class=&quot;chakra-stack css-1h4927&quot;]/div[@class=&quot;chakra-select__wrapper css-xjf8xn&quot;]/select[@class=&quot;chakra-select css-3jflzl&quot;]</value>
+      <webElementGuid>a438cc29-e29f-4217-81ba-27779dcbab9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/form/div/div[2]/select</value>
+      <webElementGuid>a6c914f7-7b6f-4daf-b400-43b30bf4f91b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantu Kamu Jawab Soal dengan Tepat, Cepat, dan Gratis!'])[1]/following::select[2]</value>
+      <webElementGuid>1d46fa13-f18a-41fb-b9bd-78bd98623c66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::select[2]</value>
+      <webElementGuid>4215fc7e-6bc0-4b58-bb99-bd4e9cb85077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='roboguru'])[1]/preceding::select[1]</value>
+      <webElementGuid>d1910dc8-89f9-4a18-bdcb-81734c888246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/select</value>
+      <webElementGuid>0d498706-d2c9-4ec1-969e-50c65662fc2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'MatematikaFisikaBiologiBahasa IndonesiaBahasa InggrisGeografiSosiologiSejarahEkonomiPenjaskesPPKNAgamaSeniTeknologi InformasiBahasa Daerah' or . = 'MatematikaFisikaBiologiBahasa IndonesiaBahasa InggrisGeografiSosiologiSejarahEkonomiPenjaskesPPKNAgamaSeniTeknologi InformasiBahasa Daerah')]</value>
+      <webElementGuid>be2b7d22-8c2f-4427-9a4d-69c725db52ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
