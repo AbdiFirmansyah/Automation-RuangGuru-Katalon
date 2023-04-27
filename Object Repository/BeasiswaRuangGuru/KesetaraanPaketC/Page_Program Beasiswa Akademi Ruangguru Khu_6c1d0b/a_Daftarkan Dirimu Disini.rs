@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Daftarkan Dirimu Disini</name>
+   <tag></tag>
+   <elementGuidId>fd5b6d4a-f434-4dee-95a5-ca8a6c0dd9f0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.cta-hero</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_164619582617332']/div[2]/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ddf7180a-9650-4840-8c91-5eed06869f4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://docs.google.com/forms/d/e/1FAIpQLSf8fQSevS8JV8XYdoDLczUPR0MRb1YJQ1EUQHl0bW2ygnztGg/viewform</value>
+      <webElementGuid>f4aea18c-99fa-4478-b4a6-86fdf2a71b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cta-hero</value>
+      <webElementGuid>22f35071-436e-44b3-ba78-231902e6e8e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>641845d4-7e08-4220-93fa-18dda582b19d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Daftarkan Dirimu Disini
+        </value>
+      <webElementGuid>b06a4aa6-c4cb-43ae-9ecc-b3d85682e47f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_164619582617332&quot;)/div[@class=&quot;section-hero&quot;]/div[@class=&quot;page-center&quot;]/div[@class=&quot;container-hero&quot;]/div[@class=&quot;hero-left&quot;]/a[@class=&quot;cta-hero&quot;]</value>
+      <webElementGuid>ad3a7a44-06df-4bab-9c95-94d6e53048e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_164619582617332']/div[2]/div/div/div/a</value>
+      <webElementGuid>a734d30a-07ea-4140-b915-8f753f002094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Daftarkan Dirimu Disini')]</value>
+      <webElementGuid>6ac28408-eaff-48cf-a743-078d3a202221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BEASISWA AKADEMI RUANGGURU - PAKET C'])[1]/following::a[1]</value>
+      <webElementGuid>96037535-c78f-4356-8746-2d8fb127e2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langganan Sekarang'])[1]/following::a[1]</value>
+      <webElementGuid>c8baa4f2-15d8-4ae9-ad62-2d08de722672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beasiswa Akademi Ruangguru'])[1]/preceding::a[2]</value>
+      <webElementGuid>7a5854eb-459a-4071-94cc-de2bc3bb0fef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Benefit yang Didapatkan'])[1]/preceding::a[2]</value>
+      <webElementGuid>2821f0ad-f9fd-46d7-b74e-f796e92150e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftarkan Dirimu Disini']/parent::*</value>
+      <webElementGuid>4c086f5e-0f93-489c-9f62-f5bc7bce59d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://docs.google.com/forms/d/e/1FAIpQLSf8fQSevS8JV8XYdoDLczUPR0MRb1YJQ1EUQHl0bW2ygnztGg/viewform')]</value>
+      <webElementGuid>f9bfcc20-6b87-4016-99d2-6d7c1351b935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>f73e7b96-c8fb-44e5-bbd9-cb3faa87e3f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://docs.google.com/forms/d/e/1FAIpQLSf8fQSevS8JV8XYdoDLczUPR0MRb1YJQ1EUQHl0bW2ygnztGg/viewform' and (text() = '
+          Daftarkan Dirimu Disini
+        ' or . = '
+          Daftarkan Dirimu Disini
+        ')]</value>
+      <webElementGuid>bdc3923c-1cc0-4459-8838-e62d3186ab64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

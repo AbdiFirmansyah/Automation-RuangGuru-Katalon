@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pilih Metode Bayar</name>
+   <tag></tag>
+   <elementGuidId>57317e06-23e6-4f20-b37c-502d604d55d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-r4oy1x</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5ff39f62-24c2-407f-8946-7c2e66407b2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e9fcb72e-c7a9-4b52-9173-7890d77bf537</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-r4oy1x</value>
+      <webElementGuid>b73b0c40-4c2d-4d81-996c-bb16ee068e24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pilih Metode Bayar</value>
+      <webElementGuid>9670b00d-60e3-4bda-bf41-699cdb593abd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1xmo2e7&quot;]/div[@class=&quot;css-uiz9ma&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;chakra-container css-md8tv9&quot;]/div[@class=&quot;css-q45nvu&quot;]/div[@class=&quot;css-11a6yb5&quot;]/div[@class=&quot;css-1bizg6v&quot;]/div[@class=&quot;css-b1ilzc&quot;]/button[@class=&quot;chakra-button css-r4oy1x&quot;]</value>
+      <webElementGuid>e3facfbd-aaa8-4450-a6b5-45b16b80330d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>dc47a737-85a9-485a-aed5-e0b17ff8fcd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div[2]/div[3]/button</value>
+      <webElementGuid>7ee924f7-9dc7-4add-b0c4-797fdc2ecc3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim informasi pembelian ke orang tua'])[1]/following::button[1]</value>
+      <webElementGuid>9fca1e5b-da3d-4f39-9e78-ff3058853408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor HP atau email siswa akan digunakan untuk mengakses paket langganan di aplikasi Ruangguru'])[1]/following::button[1]</value>
+      <webElementGuid>4f22c8da-707d-44aa-9d72-0def81ab18d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Penukaran dan Garansi'])[1]/preceding::button[1]</value>
+      <webElementGuid>f026f849-38fa-4811-b281-36295a2071c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kebijakan Penukaran dan Garansi'])[2]/preceding::button[1]</value>
+      <webElementGuid>bef6b9d9-fc86-4b2f-8ee5-5ce571e9a26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pilih Metode Bayar']/parent::*</value>
+      <webElementGuid>cd1c01a6-6a87-47a1-98f5-b883efc438b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/button</value>
+      <webElementGuid>c0eb36d6-9d8e-4579-bdaa-6723184af8c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Pilih Metode Bayar' or . = 'Pilih Metode Bayar')]</value>
+      <webElementGuid>b1e3ddbd-2436-4dc0-a973-6654d277f3d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

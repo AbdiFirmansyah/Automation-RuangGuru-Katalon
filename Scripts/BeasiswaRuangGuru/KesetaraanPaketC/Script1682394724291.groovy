@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/BeasiswaRuangGuru/KesetaraanPaketC/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/BeasiswaRuangGuru/KesetaraanPaketC/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Beasiswa'))
+
+WebUI.click(findTestObject('Object Repository/BeasiswaRuangGuru/KesetaraanPaketC/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Beasiswa'))
+
+WebUI.click(findTestObject('Object Repository/BeasiswaRuangGuru/KesetaraanPaketC/Page_Program Beasiswa Unggulan di Ruangguru_f50c03/a_Lihat Detail'))
+
+WebUI.click(findTestObject('Object Repository/BeasiswaRuangGuru/KesetaraanPaketC/Page_Program Beasiswa Akademi Ruangguru Khu_6c1d0b/a_Daftarkan Dirimu Disini'))
+
+WebUI.switchToWindowTitle('Registrasi Program Beasiswa Akademi Ruangguru - SKB & PKBM')
+
+WebUI.click(findTestObject('Object Repository/BeasiswaRuangGuru/KesetaraanPaketC/Page_Registrasi Program Beasiswa Akademi Ru_5e5e41/div_Registrasi Program Beasiswa Akademi Rua_1d8659'))
+
+WebUI.closeBrowser()
+
