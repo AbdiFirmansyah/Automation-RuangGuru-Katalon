@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Program/RuangguruEngineering/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/Program/RuangguruEngineering/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Program'))
+
+WebUI.click(findTestObject('Object Repository/Program/RuangguruEngineering/Page_Daftar Program Terbaru Ruangguru, Yuk _ccafde/a_Lihat Detail'))
+
+WebUI.click(findTestObject('Object Repository/Program/RuangguruEngineering/Page_Ruangguru Engineering Academy/h1_Timeline'))
+
+WebUI.closeBrowser()
+

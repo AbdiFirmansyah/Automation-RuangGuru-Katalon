@@ -17,3 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Produk'))
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Belajar seru dengan video dan latihan s_ed4424'))
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Belajar Online Interaktif 1 d_cbc4ca/img'))
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Belajar Online Interaktif 1 d_cbc4ca/button_SMA'))
+
+WebUI.scrollToPosition(0, 2000)
+
+WebUI.switchToWindowTitle('Aplikasi Belajar Online Interaktif #1 di Indonesia | Ruangbelajar')
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Belajar Online Interaktif 1 d_cbc4ca/div_Pilih mata pelajaran                  Fisika'))
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Belajar Online Interaktif 1 d_cbc4ca/button_Biologi'))
+
+WebUI.click(findTestObject('Object Repository/RuangBelajar/Page_Aplikasi Belajar Online Interaktif 1 d_cbc4ca/a_Lihat Semua Bab'))
+
+WebUI.navigateToUrl('https://app.ruangguru.com/ruangbelajar?lesson_serial=4PDC6KCUYL&school_level_general_serial=4PDC6KCUYL&topic_serial=E8L48A9G69&source_caller=ui&pid=Product&school_level_name=4PDC6KCUYL&lesson_general_serial=4PDC6KCUYL&shortlink=kt9zu6po&lesson_icon_url=https://imgix3.ruangguru.com/assets/ruang_belajar/icon/subject/subj_biologi.png&school_level_serial=4PDC6KCUYL&lesson_display_name=Biologi&c=List%20Bab%20Rubel')
+
+WebUI.closeBrowser()
+

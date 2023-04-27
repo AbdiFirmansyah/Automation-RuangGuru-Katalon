@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar</name>
+   <tag></tag>
+   <elementGuidId>bbdfacfc-5f87-425f-a382-c6afe6a92b93</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.syarat-content_cta > a > button.bkk-cta</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_164172963958256']/div[2]/div[5]/div/div/div[2]/div/div[2]/div[2]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6304d3bc-5e13-4887-ac36-d246e1068314</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bkk-cta</value>
+      <webElementGuid>ba19829a-a339-4350-bfc3-acfaf0ef037d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar</value>
+      <webElementGuid>23fb0c22-d91f-4aa6-817b-18a4873d2767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_164172963958256&quot;)/div[@class=&quot;bkk normalize-css&quot;]/div[@class=&quot;persyaratan&quot;]/div[@class=&quot;page-center&quot;]/div[@class=&quot;persyaratan-content&quot;]/div[@class=&quot;persyaratan-content_cards&quot;]/div[@class=&quot;syarat-card&quot;]/div[@class=&quot;syarat-card_content&quot;]/div[@class=&quot;syarat-content_cta&quot;]/a[1]/button[@class=&quot;bkk-cta&quot;]</value>
+      <webElementGuid>e4a3e022-cb00-4cde-b512-a287df758d43</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_164172963958256']/div[2]/div[5]/div/div/div[2]/div/div[2]/div[2]/a/button</value>
+      <webElementGuid>f3b7a2f6-ae1d-4c3b-8c28-9ecbf9dd1710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Persyaratan Peserta Bimbingan Kesiapan Kerja'])[1]/following::button[1]</value>
+      <webElementGuid>0a55bb0a-7dd3-412a-9aae-21dcf0146f45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apa Kata Alumni tentang Program?'])[1]/following::button[5]</value>
+      <webElementGuid>598f9727-6797-416f-ab2b-1bc2aa4e8f5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar'])[2]/preceding::button[1]</value>
+      <webElementGuid>f0ffd60d-5906-4a07-85a2-1b0a86248d45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alur Program Bimbingan Kesiapan Kerja'])[1]/preceding::button[2]</value>
+      <webElementGuid>45897b96-06d6-4365-ae55-9db7bda7203b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>a1065d3e-9c7c-476d-8f68-b84c9fa14492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/button</value>
+      <webElementGuid>6746abcd-44d2-4fcc-88e8-416c35920853</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Daftar' or . = 'Daftar')]</value>
+      <webElementGuid>cabf17f8-1a3c-4d82-8be0-337bfebca8dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

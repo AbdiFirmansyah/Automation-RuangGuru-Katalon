@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_COBA GRATISKonsep Kilat0</name>
+   <tag></tag>
+   <elementGuidId>fd6489c2-325e-44a3-937e-fbd3c5b5154c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div/div[3]/div/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.chakra-stack.css-1c09opa</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>aaa2cd91-f2a6-4e5e-ac17-7005a5f82069</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-1c09opa</value>
+      <webElementGuid>fe49218a-36b1-4bda-8836-da06d16fd7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi/sistem-saraf/konsep-kilat</value>
+      <webElementGuid>17b422c7-82fb-4be9-b49b-18467b84b4c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>COBA GRATISKonsep Kilat0%</value>
+      <webElementGuid>16bf7aad-c65a-4ace-affa-fc2807f90240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1f5whys&quot;]/div[@class=&quot;css-5m9o76&quot;]/div[@class=&quot;chakra-container css-3slsst&quot;]/div[@class=&quot;chakra-stack css-x9lkpl&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-34zyy1&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;chakra-skeleton css-1qwjt25&quot;]/a[@class=&quot;chakra-stack css-1c09opa&quot;]</value>
+      <webElementGuid>64939839-4d27-4437-9a07-b68a115e7a1b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div/div[3]/div/div/div/div/a</value>
+      <webElementGuid>c2a29b67-c559-454a-a9a1-3530e08d7510</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Saraf ⚡️'])[2]/following::a[1]</value>
+      <webElementGuid>e8d874c4-6f86-4b41-b425-d7788e95fb84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Saraf ⚡️'])[1]/following::a[1]</value>
+      <webElementGuid>553b562d-7f7e-4eb0-a7e0-0deaa960ac0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Komponen Sistem Saraf'])[1]/preceding::a[1]</value>
+      <webElementGuid>52513ea0-4c9c-4954-827b-d30cd612f559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi/sistem-saraf/konsep-kilat')]</value>
+      <webElementGuid>195098de-21a9-4d3d-a1e1-62c5b9748a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/a</value>
+      <webElementGuid>ec0b6a03-84a3-4e55-a5ca-5aa208c645e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi/sistem-saraf/konsep-kilat' and (text() = 'COBA GRATISKonsep Kilat0%' or . = 'COBA GRATISKonsep Kilat0%')]</value>
+      <webElementGuid>b9c09f33-2d72-4066-ad4e-cbcd6b874fdf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

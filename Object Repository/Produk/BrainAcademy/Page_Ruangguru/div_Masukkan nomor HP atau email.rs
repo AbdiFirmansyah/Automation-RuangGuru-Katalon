@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Masukkan nomor HP atau email</name>
+   <tag></tag>
+   <elementGuidId>878fc4d2-c822-46c3-a729-ca24164b71eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.chakra-form-control.css-1kxonj9</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div/div/div/form/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cacfbd4d-6dbf-4b01-a013-db1a73641c27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>group</value>
+      <webElementGuid>8408a86a-ae64-401d-a157-1605af935475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-form-control css-1kxonj9</value>
+      <webElementGuid>37c3d748-fd28-4b85-a90a-bade1b0e33bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan nomor HP atau email*</value>
+      <webElementGuid>d8f1ff34-7684-4790-aef7-7b34a5fb27bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1554bj2&quot;]/div[@class=&quot;css-12esye9&quot;]/div[@class=&quot;layout-wrapper css-1gual9u&quot;]/div[@class=&quot;chakra-stack layout-form-card css-pqoyt4&quot;]/div[@class=&quot;layout-content css-80gtio&quot;]/div[@class=&quot;chakra-stack css-egoftb&quot;]/div[@class=&quot;css-0&quot;]/div[@class=&quot;chakra-stack css-egoftb&quot;]/form[@class=&quot;chakra-stack css-egoftb&quot;]/div[@class=&quot;chakra-form-control css-1kxonj9&quot;]</value>
+      <webElementGuid>54e1a9a0-3e86-4f65-ac19-682aa61faec1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[2]/div[2]/div/div/div/form/div</value>
+      <webElementGuid>430ad0a6-e9a1-4778-8669-89a38c495a4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::div[2]</value>
+      <webElementGuid>906c74e6-8882-43c9-a59b-a950badf238b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google'])[1]/following::div[2]</value>
+      <webElementGuid>e6acd6e2-306b-4ffb-94b0-a213992abe2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lanjutkan'])[1]/preceding::div[2]</value>
+      <webElementGuid>fe29c8a1-a41d-4ba9-be7d-d8f668baaa35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div</value>
+      <webElementGuid>b4363b1a-d8f4-42b7-b619-ff40f7870070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Masukkan nomor HP atau email*' or . = 'Masukkan nomor HP atau email*')]</value>
+      <webElementGuid>69252331-f0bf-4048-89c8-21105e70ed76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

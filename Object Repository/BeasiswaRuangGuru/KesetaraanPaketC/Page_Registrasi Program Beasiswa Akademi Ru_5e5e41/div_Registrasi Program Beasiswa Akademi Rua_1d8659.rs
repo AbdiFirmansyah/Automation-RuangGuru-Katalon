@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Registrasi Program Beasiswa Akademi Rua_1d8659</name>
+   <tag></tag>
+   <elementGuidId>0b932690-2619-43eb-a872-2418bbd48fd9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.F9yp7e.ikZYwf.LgNcQe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec723162-efe3-4881-a574-078b416702e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>F9yp7e ikZYwf LgNcQe</value>
+      <webElementGuid>88fa8fb7-6a7a-49db-a47d-affbbc9625e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>572603f9-b129-46fa-8f5b-6d46b04015f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>heading</value>
+      <webElementGuid>41f3c76e-7b7a-4ce6-9e5a-1be725012cfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-level</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>3b72baff-881b-4d76-b0bb-904a55a129c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Registrasi Program Beasiswa Akademi Ruangguru - SKB &amp; PKBM</value>
+      <webElementGuid>72dc177b-11c4-4bcf-a870-06a1a92a366f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;Dq4amc&quot;]/div[@class=&quot;m7w29c O8VmIc tIvQIf&quot;]/div[@class=&quot;N0gd6&quot;]/div[@class=&quot;ahS2Le&quot;]/div[@class=&quot;F9yp7e ikZYwf LgNcQe&quot;]</value>
+      <webElementGuid>54ec2dc7-c3f6-4cc5-98b0-14585c70ceb1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>3cd298bf-f150-4dad-9edd-75ce91fab31e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login ke Google'])[1]/preceding::div[4]</value>
+      <webElementGuid>8d646c06-e274-4078-b188-24d503b6c538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div</value>
+      <webElementGuid>8dd62501-28b2-4faa-b9a2-34d44b81360e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Registrasi Program Beasiswa Akademi Ruangguru - SKB &amp; PKBM' or . = 'Registrasi Program Beasiswa Akademi Ruangguru - SKB &amp; PKBM')]</value>
+      <webElementGuid>9bca9f66-12d0-45e4-835b-14dff6891eff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

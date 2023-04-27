@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Jumat</name>
+   <tag></tag>
+   <elementGuidId>0f119d31-efdc-4926-bfaf-5b64d64251d8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='wizard-p-0']/div[9]/div[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f775cb32-17d0-480f-9b09-e781d8173b96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>reward_form_submission_submission_data_pilihan_hari</value>
+      <webElementGuid>645b84d7-2152-4834-a5d1-d4d59144ce1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-check-label text-dark </value>
+      <webElementGuid>49d0da67-c02c-4792-ba69-bcd1015f61f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-label-type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>fd50f8df-4beb-4f1a-b564-6d6a9f33bea7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          Jum'at
+        </value>
+      <webElementGuid>ae084c6a-e42e-4303-8c17-6379b56bdc60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wizard-p-0&quot;)/div[@class=&quot;form-group form-group-pilihan_hari checkbox-group is-required&quot;]/div[@class=&quot;form-check&quot;]/label[@class=&quot;form-check-label text-dark&quot;]</value>
+      <webElementGuid>cba425d5-0924-46a9-8e84-5d598596b716</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='wizard-p-0']/div[9]/div[5]/label</value>
+      <webElementGuid>42c335b0-21d8-40f0-97e2-436829718726</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kamis'])[1]/following::label[1]</value>
+      <webElementGuid>3003b806-8596-4650-9987-665b678dba6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rabu'])[1]/following::label[2]</value>
+      <webElementGuid>483dd08d-4d57-44fd-a85d-3c3c2d497c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sabtu'])[1]/preceding::label[1]</value>
+      <webElementGuid>113a6792-6bff-4e32-9cb0-46f628c76de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilihan waktu'])[1]/preceding::label[2]</value>
+      <webElementGuid>8e53cab8-b6a5-4ba2-9c1a-3ade6fdc763a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[5]/label</value>
+      <webElementGuid>aec07a87-3394-4e88-9d15-a39932391253</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = concat(&quot;
+          Jum&quot; , &quot;'&quot; , &quot;at
+        &quot;) or . = concat(&quot;
+          Jum&quot; , &quot;'&quot; , &quot;at
+        &quot;))]</value>
+      <webElementGuid>3e97db28-983b-45c6-b771-708e86df6008</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
