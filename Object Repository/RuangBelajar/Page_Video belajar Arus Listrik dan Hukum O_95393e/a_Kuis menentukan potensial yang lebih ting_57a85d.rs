@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Kuis menentukan potensial yang lebih ting_57a85d</name>
+   <tag></tag>
+   <elementGuidId>24542c1b-d0bd-40bf-831f-74ab5ac564d3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='video-content-container']/div[2]/div/div/div/div/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ea531f0e-1a25-4f3e-a59f-4472abb6fefc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-stack css-1shz3wb</value>
+      <webElementGuid>41794754-3748-4bda-9a04-e318540ac3e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/v/arus-listrik-dan-hukum-ohm-subtopi-9mfzn9ui-hr-sma-kelas-12-kurikulum-merdeka?t=234</value>
+      <webElementGuid>e1997438-ea26-450f-8585-b8bad811312f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kuis menentukan potensial yang lebih tinggi (1)03:54</value>
+      <webElementGuid>791bf4b2-da46-4496-b725-9aa05e7f2923</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;video-content-container&quot;)/div[@class=&quot;css-cp5lzz&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;css-1g6g294&quot;]/div[@class=&quot;css-1a4pz4o&quot;]/div[@class=&quot;css-17qnj1m&quot;]/div[@class=&quot;css-1ldm68t&quot;]/div[@class=&quot;css-1q9tya8&quot;]/a[@class=&quot;chakra-stack css-1shz3wb&quot;]</value>
+      <webElementGuid>dbb8e7f7-ffeb-4592-b4c5-9818746994be</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='video-content-container']/div[2]/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>b8093c4f-0486-4bb7-ac7f-148d4d41da58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Arus Listrik dan Hukum Ohm'])[3]/following::a[2]</value>
+      <webElementGuid>9007c645-1243-440c-a79d-24219e3c5cd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='auto'])[1]/following::a[2]</value>
+      <webElementGuid>ecd8d568-2e01-4b45-9d1f-b252c9d792cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk/Daftar'])[2]/preceding::a[31]</value>
+      <webElementGuid>9baa2813-3027-441f-af30-454285c07009</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langganan'])[2]/preceding::a[31]</value>
+      <webElementGuid>ccffd003-3356-4c10-83bc-068461f6cdc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ruangbelajar/v/arus-listrik-dan-hukum-ohm-subtopi-9mfzn9ui-hr-sma-kelas-12-kurikulum-merdeka?t=234')]</value>
+      <webElementGuid>b70b50a8-a5b2-4d0f-a54e-4d5cc04d7e72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div[2]/div/div/div/div/div[2]/div/a</value>
+      <webElementGuid>bbccfcd6-7032-4e4f-9490-821b2a38a9b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/v/arus-listrik-dan-hukum-ohm-subtopi-9mfzn9ui-hr-sma-kelas-12-kurikulum-merdeka?t=234' and (text() = 'Kuis menentukan potensial yang lebih tinggi (1)03:54' or . = 'Kuis menentukan potensial yang lebih tinggi (1)03:54')]</value>
+      <webElementGuid>86c1b9aa-0961-454a-b993-627d505a360e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

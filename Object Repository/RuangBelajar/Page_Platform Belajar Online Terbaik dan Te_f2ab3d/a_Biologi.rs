@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Biologi</name>
+   <tag></tag>
+   <elementGuidId>031db313-91a8-45ad-96e0-06672dced45c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/main/div/div[3]/div[2]/div[2]/a[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>991cf5bd-91f9-4bfe-8b07-6069b88a55b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-link css-itonpk</value>
+      <webElementGuid>45c85602-6e9e-40cc-b54b-5ed5072a03df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi</value>
+      <webElementGuid>d5183eb8-7e86-4157-9288-78b4e3b26bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Biologi</value>
+      <webElementGuid>7080abe7-b16d-4a3c-8f00-9b3d1ae47b4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/main[@class=&quot;css-1f5whys&quot;]/div[@class=&quot;chakra-stack css-owjkmg&quot;]/div[@class=&quot;chakra-stack css-1gx74it&quot;]/div[@class=&quot;css-1aqz6gt&quot;]/div[@class=&quot;css-1vhv2lo&quot;]/a[@class=&quot;chakra-link css-itonpk&quot;]</value>
+      <webElementGuid>ba2a17fe-b9b3-450f-9ebf-bbbdbc0123b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/main/div/div[3]/div[2]/div[2]/a[4]</value>
+      <webElementGuid>9dea8f02-5d1b-454f-8c94-0759e6e101d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Inggris'])[1]/following::a[1]</value>
+      <webElementGuid>5f1c777f-315d-4b82-ab1a-c4c411882750</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bahasa Indonesia'])[1]/following::a[2]</value>
+      <webElementGuid>fb708168-47a4-45c4-ac9f-02ec96bdccae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kimia'])[1]/preceding::a[1]</value>
+      <webElementGuid>1d8e841f-8efa-430e-9c60-8b385348eb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi')]</value>
+      <webElementGuid>abbc8a61-255d-4cab-a20a-94c23fd9d337</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]</value>
+      <webElementGuid>b20a72be-e4d7-4e9b-b30d-90d5c559177e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/ruangbelajar/sma-kelas-12-kurikulum-merdeka/biologi' and (text() = 'Biologi' or . = 'Biologi')]</value>
+      <webElementGuid>c8495124-c252-4623-9e1e-23e63e822345</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

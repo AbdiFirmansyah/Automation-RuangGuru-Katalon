@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_About Ruangguru</name>
+   <tag></tag>
+   <elementGuidId>812bafc3-4783-403c-be90-6b2bfc148cff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_164246809314121']/div[2]/div[2]/div/div/div[7]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90bf11c5-f651-4df3-bf5c-cb4281f02fe0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-btn</value>
+      <webElementGuid>1d760909-2c50-4336-9fc0-3be2445f503e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>wrapper-rg</value>
+      <webElementGuid>4ba5ea60-2005-4d83-a393-daaa230e0601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>About Ruangguru</value>
+      <webElementGuid>270212ef-6e57-40cd-88ce-8128319ec390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_164246809314121&quot;)/div[@class=&quot;map&quot;]/div[@class=&quot;navigator normalize-css&quot;]/div[@class=&quot;page-center-navigator&quot;]/div[@class=&quot;navigator-content&quot;]/div[@class=&quot;nav-tab&quot;]/button[@class=&quot;nav-btn&quot;]</value>
+      <webElementGuid>6ceedd19-95d1-4fe9-af05-ef67173efca3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_164246809314121']/div[2]/div[2]/div/div/div[7]/button</value>
+      <webElementGuid>8a8a9977-5559-4706-b4eb-36c9d6d04fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQ'])[1]/following::button[1]</value>
+      <webElementGuid>48edfcb1-b2db-4e03-9992-543cc3a9930c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimony'])[1]/following::button[2]</value>
+      <webElementGuid>46151f44-6585-4fc9-80a5-250d1540fdf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About The Program'])[2]/preceding::button[1]</value>
+      <webElementGuid>91a75c83-9f22-4a7c-ab4b-68fb6f655546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('What', &quot;'&quot;, 's it like to be a part of this journey?')])[1]/preceding::button[1]</value>
+      <webElementGuid>976014f4-0c8f-44df-a364-38aa6a98441c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='About Ruangguru']/parent::*</value>
+      <webElementGuid>b8a37f0d-1348-4ac9-a016-df7e24d35e87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/button</value>
+      <webElementGuid>8e70c977-fa99-4c8a-b04e-1e026df793b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'About Ruangguru' or . = 'About Ruangguru')]</value>
+      <webElementGuid>6b40a1b3-293f-4502-a7ff-5acc8657b375</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

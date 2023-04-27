@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Program</name>
+   <tag></tag>
+   <elementGuidId>b123a64a-5c84-4547-9d9f-e1287cde7165</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_1654755689111101']/div[2]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.button-detail-products</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1d56dfb8-6754-4c3c-9309-65fa0e0f99a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#products-rgfk</value>
+      <webElementGuid>5eda74fc-7e13-45ae-81db-2cf3d50c28cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-detail-products</value>
+      <webElementGuid>38408347-dd4c-499e-ac2d-9be127c6bbbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Program</value>
+      <webElementGuid>6ae730b9-b0a2-4872-86bb-4ffa5a83800a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_1654755689111101&quot;)/div[@class=&quot;top-banner&quot;]/div[@class=&quot;page-center&quot;]/div[@class=&quot;banner-section&quot;]/div[@class=&quot;content_items c-pb&quot;]/a[@class=&quot;button-detail-products&quot;]</value>
+      <webElementGuid>451dd382-9a55-44b2-94f5-2b99285e3416</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_1654755689111101']/div[2]/div/div/div/a</value>
+      <webElementGuid>16161638-18c1-499a-a75e-a51baed988fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lihat Program')]</value>
+      <webElementGuid>bafbd2fa-cd32-4d2d-86e4-f6530f00ba4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pilihan lengkap untuk kembangkan potensi anak usia 3–12 tahun'])[1]/following::a[1]</value>
+      <webElementGuid>9c28c4a0-89bb-401b-a17e-20adb46e41cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Langganan Sekarang'])[1]/following::a[1]</value>
+      <webElementGuid>689646f8-6a29-4101-b73e-0bf1b0d4e900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jelajahi bantuan belajar terbaik dan menyenangkan dari Ruangguru'])[1]/preceding::a[1]</value>
+      <webElementGuid>94227d8d-a529-4e61-baac-67fedaf58257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anak anda umur berapa?'])[1]/preceding::a[1]</value>
+      <webElementGuid>5505605e-09c4-4ea3-9253-89843ee45ae1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lihat Program']/parent::*</value>
+      <webElementGuid>cb94e067-b560-42f3-ba96-b462388b54a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#products-rgfk')]</value>
+      <webElementGuid>9b57207e-7989-4a02-9101-8bad485ee211</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>db7040f6-9177-4c40-9541-ce009fe26bb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#products-rgfk' and (text() = 'Lihat Program' or . = 'Lihat Program')]</value>
+      <webElementGuid>11d3458b-e1f7-4d12-9ff5-2cc824a6a359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
