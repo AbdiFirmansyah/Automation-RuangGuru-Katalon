@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Langganan Sekarang</name>
+   <tag></tag>
+   <elementGuidId>a3e1a560-9f7a-44d0-9014-664dfb0aca28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cta-nav.show-desktop > a > div.daftar-sekarang</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_164552016322483']/div/div/nav/div[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bbfedbfc-82cc-4e51-a2ef-e9b0cc7101c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>daftar-sekarang</value>
+      <webElementGuid>dd190f32-912a-41ea-ae49-ae643beee450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Langganan Sekarang</value>
+      <webElementGuid>4e7c500d-a90b-44a4-a9cc-4be25ad60207</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_164552016322483&quot;)/div[@class=&quot;header-shadow&quot;]/div[@class=&quot;page-center&quot;]/nav[@class=&quot;navbar navbar-expand-lg navbar-light&quot;]/div[@class=&quot;cta-nav show-desktop&quot;]/a[1]/div[@class=&quot;daftar-sekarang&quot;]</value>
+      <webElementGuid>8e910396-dc5f-4c36-8f2d-faa63824b878</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_164552016322483']/div/div/nav/div[2]/a/div</value>
+      <webElementGuid>8104d0a9-2e65-4138-9981-6e0faa0cfe84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::div[2]</value>
+      <webElementGuid>5095b245-f28b-41cc-ac3b-54e385263fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Center English Club'])[1]/following::div[4]</value>
+      <webElementGuid>e9c17467-9fca-4bc0-a0bd-d7e1da3df5e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='mengenal Bahasa Inggris sejak dini'])[1]/preceding::div[6]</value>
+      <webElementGuid>9a50f7d8-1c5f-429a-9a6f-38c9b414195c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div</value>
+      <webElementGuid>b002b460-9eab-49b1-a64f-ae1348679ec8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Langganan Sekarang' or . = 'Langganan Sekarang')]</value>
+      <webElementGuid>f67489da-501b-4d88-a77e-4866b9124518</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

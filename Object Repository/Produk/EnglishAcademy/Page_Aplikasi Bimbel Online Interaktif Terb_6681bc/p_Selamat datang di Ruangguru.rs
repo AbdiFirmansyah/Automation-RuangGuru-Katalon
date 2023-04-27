@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Selamat datang di Ruangguru</name>
+   <tag></tag>
+   <elementGuidId>0fa03059-e8b5-4696-af1d-4eda00f35ac8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.modal-jenjang-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jenjangModal']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b2f2a6c2-7b18-4466-8067-f74fa3e6ed1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-jenjang-title</value>
+      <webElementGuid>fb3c8c5b-527f-43cf-94b3-a223cfdbace5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Selamat datang di Ruangguru!</value>
+      <webElementGuid>4648a755-88d4-43bb-9d51-621d454b980d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jenjangModal&quot;)/div[@class=&quot;modal-content-jenjang&quot;]/div[@class=&quot;modal-body-jenjang&quot;]/p[@class=&quot;modal-jenjang-title&quot;]</value>
+      <webElementGuid>abe16cca-da1b-41ea-bde8-4fa085c938d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jenjangModal']/div/div/p</value>
+      <webElementGuid>58d6750a-a44e-4b5f-90a6-a810a078a0c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[2]/following::p[1]</value>
+      <webElementGuid>4a245ece-38d5-4066-b326-d4c04db9023b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- Kelas 12 IPA'])[1]/following::p[1]</value>
+      <webElementGuid>795af390-4fbe-4512-8db1-b790ec7ee198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAUD'])[2]/preceding::p[2]</value>
+      <webElementGuid>7b778f1b-2cf0-4685-8f9a-7b4e91a9dda4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SD'])[2]/preceding::p[2]</value>
+      <webElementGuid>61f76f98-fb83-4268-b618-f865c4bfa07b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Selamat datang di Ruangguru!']/parent::*</value>
+      <webElementGuid>1698fa9d-97e1-42ad-9ee5-dae9e1a7034e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/p</value>
+      <webElementGuid>af752162-3e76-47e3-9ae2-a3cd8255f45c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Selamat datang di Ruangguru!' or . = 'Selamat datang di Ruangguru!')]</value>
+      <webElementGuid>e86208c5-6a9f-44ac-86e8-7b5de80abe9c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

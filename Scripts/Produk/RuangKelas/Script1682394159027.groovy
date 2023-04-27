@@ -17,3 +17,34 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.mouseOver(findTestObject('Object Repository/Produk/RuangKelas/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Produk'))
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Sistem Kelola Pembelajaran Jarak Jauh GRATIS'))
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_Aplikasi LMS Online 1 di Indonesia  Ru_8b22ce/a_Coba ruangkelas Gratis'))
+
+WebUI.switchToWindowTitle('ruangkelas')
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_ruangkelas/div_Masuk'))
+
+WebUI.setText(findTestObject('Object Repository/Produk/RuangKelas/Page_Masuk - ruangkelas/input_ruangkelas_email'), 'abcd')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Produk/RuangKelas/Page_Masuk - ruangkelas/input_ruangkelas_password'), 
+    'vboZJ1Yxnwj8EMcDNoezWQ==')
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_Masuk - ruangkelas/svg_ruangkelas_css-0'))
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_Masuk - ruangkelas/span_ruangkelas_chakra-checkbox__control cs_5c7b1d'))
+
+WebUI.click(findTestObject('Object Repository/Produk/RuangKelas/Page_Masuk - ruangkelas/button_Masuk'))
+
+WebUI.closeBrowser()
+

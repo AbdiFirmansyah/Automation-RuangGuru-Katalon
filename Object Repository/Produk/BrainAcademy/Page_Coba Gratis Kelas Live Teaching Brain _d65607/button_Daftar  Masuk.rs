@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Daftar  Masuk</name>
+   <tag></tag>
+   <elementGuidId>8309c36c-ddf0-4719-a0f7-3716266da1b1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.chakra-button.css-11zozcn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>cfc2fa2d-e7b7-48ae-842a-f298308411e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>258e156b-08c9-4b3c-80a3-7dae837ad638</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-button css-11zozcn</value>
+      <webElementGuid>25d255ab-57e1-42ec-8492-89405feaf532</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Daftar / Masuk</value>
+      <webElementGuid>e895bf86-726f-479a-b1e8-f16de31f8ec4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1ofqig9&quot;]/div[@class=&quot;css-oqpl5p&quot;]/div[@class=&quot;css-1jz4j5l&quot;]/nav[@class=&quot;css-aidu4m&quot;]/a[@class=&quot;chakra-link css-nljh0n&quot;]/button[@class=&quot;chakra-button css-11zozcn&quot;]</value>
+      <webElementGuid>48098df5-2b5c-44a9-ae40-3fd0c2ba2318</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>769db3df-4e99-4b14-9e93-66885528c158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/nav/a/button</value>
+      <webElementGuid>c31a1015-9fe4-49e9-ab0e-2c973c51edec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Paket Belajar'])[1]/following::button[1]</value>
+      <webElementGuid>8ee11a85-00da-46e8-b445-e2cda3d54557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kata Brainies'])[1]/following::button[2]</value>
+      <webElementGuid>514285f8-68fc-4ee7-882e-62d0b346a9a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coba gratis Live Teaching Brain Academy Online'])[1]/preceding::button[1]</value>
+      <webElementGuid>6e7d5801-692a-417f-8c2c-baaa40c3e0d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ikuti Live Teaching Sekarang'])[1]/preceding::button[1]</value>
+      <webElementGuid>c2f404b3-9277-4205-8421-ca015d5282ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar / Masuk']/parent::*</value>
+      <webElementGuid>95553ed4-edda-4281-90b6-d612d19c127a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/button</value>
+      <webElementGuid>b8678060-393f-4f91-aa1d-6519856e6c3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Daftar / Masuk' or . = 'Daftar / Masuk')]</value>
+      <webElementGuid>904e5a1e-cde3-4e24-a6ec-7c791e4b1894</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LAMAR SEKARANG</name>
+   <tag></tag>
+   <elementGuidId>bd616493-d4d1-4ad9-b797-7cb0874a9948</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.wantec-content_text > div.starhero-cta > #hs-cta-wrapper-cf5543e4-7470-4c4e-96ee-8544a424e360 > #hs-cta-cf5543e4-7470-4c4e-96ee-8544a424e360 > #cta_button_2828691_46d0717b-eed6-4698-b491-db22be77ee96</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='cta_button_2828691_46d0717b-eed6-4698-b491-db22be77ee96'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a81569f3-89ec-4e6d-9788-31af9c96ee84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cta_button_2828691_46d0717b-eed6-4698-b491-db22be77ee96</value>
+      <webElementGuid>333bc6d5-0d54-42d0-82dc-6093656922a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cta_button ctalamarsekarang</value>
+      <webElementGuid>2d7d9d04-2607-4644-ab7e-7c599cb7e67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ruangguru.com/cs/c/?cta_guid=46d0717b-eed6-4698-b491-db22be77ee96&amp;signature=AAH58kHeqcjO_Z_qJfeSbhvKySwQXGVmxQ&amp;pageId=38782441304&amp;placement_guid=cf5543e4-7470-4c4e-96ee-8544a424e360&amp;click=d0cef796-0d57-40a8-8e05-87910290a932&amp;hsutk=0f3d266ab9756a4e13d244cf8ff4b55a&amp;canon=https%3A%2F%2Fwww.ruangguru.com%2Fprogram%2Fsales-trainee-academy&amp;utm_referrer=https%3A%2F%2Fwww.ruangguru.com%2Fprogram&amp;portal_id=2828691&amp;redirect_url=APefjpG9P6LYW9URRNMzoOTzqpz2Dhip9DbYMiDl2i1-8qDkYYnncXvYcNQRpThKlaAPiElCCX0KIC6QC_fLbmMxIXh1KXaSfWl48OqWlPci2VIn2E5T036CjsBMm2Bl04C2H5PrHrupI3jcRuZhdgS07zcNQUnmqiRZ-1vVfmZGtRMP5IilZADMqZKrK2f-vI13zQNtVAFPhls0ih0jDP7xUJfNiPzOziKTnFWfUtJIDPnl57dxsKfRwgTUrWoLxM2GAz36JeU8ZDRGQ7UvXnTAqYVXkvOniTpd2OQdAXDudXAW7DEFNVc&amp;__hstc=215722120.0f3d266ab9756a4e13d244cf8ff4b55a.1682432245586.1682432245586.1682432245586.1&amp;__hssc=215722120.3.1682432245586&amp;__hsfp=2652833131&amp;contentType=landing-page</value>
+      <webElementGuid>918e9645-bc12-4a27-a0ec-69fa7d4a21e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cta_dest_link</name>
+      <type>Main</type>
+      <value>https://career.ruangguru.com/vacancies/DPT-9wdFEvq</value>
+      <webElementGuid>fc8d76b7-5ec9-4290-8535-8fd12a201843</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>LAMAR SEKARANG</value>
+      <webElementGuid>8ef9b86c-fba1-4dc3-b9df-769702f48adf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LAMAR SEKARANG</value>
+      <webElementGuid>ce939e23-a608-47ca-8970-74c518bf15a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_1641525427962139&quot;)/div[@class=&quot;wantec normalize-css&quot;]/div[@class=&quot;page-center&quot;]/div[@class=&quot;wantec-content&quot;]/div[@class=&quot;wantec-content_text&quot;]/div[@class=&quot;starhero-cta&quot;]/span[@id=&quot;hs-cta-wrapper-cf5543e4-7470-4c4e-96ee-8544a424e360&quot;]/span[@id=&quot;hs-cta-cf5543e4-7470-4c4e-96ee-8544a424e360&quot;]/a[@id=&quot;cta_button_2828691_46d0717b-eed6-4698-b491-db22be77ee96&quot;]</value>
+      <webElementGuid>d734b3a4-3bae-4494-8567-54d9aac6b045</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='cta_button_2828691_46d0717b-eed6-4698-b491-db22be77ee96'])[2]</value>
+      <webElementGuid>efd96565-b402-4079-a4bc-dfc9447fdcf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//span[@id='hs-cta-cf5543e4-7470-4c4e-96ee-8544a424e360']/a)[2]</value>
+      <webElementGuid>934ec437-bf9e-48d0-ab3c-9dfd46a60ec7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'LAMAR SEKARANG')])[2]</value>
+      <webElementGuid>5f688fed-b8f8-44f3-afa4-f35c7f4a698a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mau Membangun Karir Sebagai Education Consultant?'])[1]/following::a[1]</value>
+      <webElementGuid>3df8a72c-7930-45a2-9faa-bcf4d2590fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah Anda orang yang kami cari?'])[1]/following::a[1]</value>
+      <webElementGuid>7299f578-cd87-427b-aa53-8c1306a386bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Proses Seleksi'])[1]/preceding::a[1]</value>
+      <webElementGuid>709708f9-a630-4365-8fbc-f9c0afc8b500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Program Outlook'])[1]/preceding::a[1]</value>
+      <webElementGuid>79fab627-0103-40da-8939-d0383cd3c7bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.ruangguru.com/cs/c/?cta_guid=46d0717b-eed6-4698-b491-db22be77ee96&amp;signature=AAH58kHeqcjO_Z_qJfeSbhvKySwQXGVmxQ&amp;pageId=38782441304&amp;placement_guid=cf5543e4-7470-4c4e-96ee-8544a424e360&amp;click=d0cef796-0d57-40a8-8e05-87910290a932&amp;hsutk=0f3d266ab9756a4e13d244cf8ff4b55a&amp;canon=https%3A%2F%2Fwww.ruangguru.com%2Fprogram%2Fsales-trainee-academy&amp;utm_referrer=https%3A%2F%2Fwww.ruangguru.com%2Fprogram&amp;portal_id=2828691&amp;redirect_url=APefjpG9P6LYW9URRNMzoOTzqpz2Dhip9DbYMiDl2i1-8qDkYYnncXvYcNQRpThKlaAPiElCCX0KIC6QC_fLbmMxIXh1KXaSfWl48OqWlPci2VIn2E5T036CjsBMm2Bl04C2H5PrHrupI3jcRuZhdgS07zcNQUnmqiRZ-1vVfmZGtRMP5IilZADMqZKrK2f-vI13zQNtVAFPhls0ih0jDP7xUJfNiPzOziKTnFWfUtJIDPnl57dxsKfRwgTUrWoLxM2GAz36JeU8ZDRGQ7UvXnTAqYVXkvOniTpd2OQdAXDudXAW7DEFNVc&amp;__hstc=215722120.0f3d266ab9756a4e13d244cf8ff4b55a.1682432245586.1682432245586.1682432245586.1&amp;__hssc=215722120.3.1682432245586&amp;__hsfp=2652833131&amp;contentType=landing-page')])[2]</value>
+      <webElementGuid>c42ccaa9-f861-460d-8590-503c1cae1d95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span/a</value>
+      <webElementGuid>f17c7d4f-dc30-4309-bad6-f18a55ee6d4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'cta_button_2828691_46d0717b-eed6-4698-b491-db22be77ee96' and @href = 'https://www.ruangguru.com/cs/c/?cta_guid=46d0717b-eed6-4698-b491-db22be77ee96&amp;signature=AAH58kHeqcjO_Z_qJfeSbhvKySwQXGVmxQ&amp;pageId=38782441304&amp;placement_guid=cf5543e4-7470-4c4e-96ee-8544a424e360&amp;click=d0cef796-0d57-40a8-8e05-87910290a932&amp;hsutk=0f3d266ab9756a4e13d244cf8ff4b55a&amp;canon=https%3A%2F%2Fwww.ruangguru.com%2Fprogram%2Fsales-trainee-academy&amp;utm_referrer=https%3A%2F%2Fwww.ruangguru.com%2Fprogram&amp;portal_id=2828691&amp;redirect_url=APefjpG9P6LYW9URRNMzoOTzqpz2Dhip9DbYMiDl2i1-8qDkYYnncXvYcNQRpThKlaAPiElCCX0KIC6QC_fLbmMxIXh1KXaSfWl48OqWlPci2VIn2E5T036CjsBMm2Bl04C2H5PrHrupI3jcRuZhdgS07zcNQUnmqiRZ-1vVfmZGtRMP5IilZADMqZKrK2f-vI13zQNtVAFPhls0ih0jDP7xUJfNiPzOziKTnFWfUtJIDPnl57dxsKfRwgTUrWoLxM2GAz36JeU8ZDRGQ7UvXnTAqYVXkvOniTpd2OQdAXDudXAW7DEFNVc&amp;__hstc=215722120.0f3d266ab9756a4e13d244cf8ff4b55a.1682432245586.1682432245586.1682432245586.1&amp;__hssc=215722120.3.1682432245586&amp;__hsfp=2652833131&amp;contentType=landing-page' and @title = 'LAMAR SEKARANG' and (text() = 'LAMAR SEKARANG' or . = 'LAMAR SEKARANG')]</value>
+      <webElementGuid>6a46f34d-c1ed-44f1-9bce-c48653fc6df9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lihat Detail</name>
+   <tag></tag>
+   <elementGuidId>d4aa372d-7458-4dbb-9e04-38fc36693ae5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-cards']/div[3]/div[7]/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c1e041df-bebb-49b6-ab8d-74d4e156939a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ruangguru.com/program/sales-trainee-academy</value>
+      <webElementGuid>12982b0b-8175-46c3-b6a6-a983b64b29ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Lihat Detail</value>
+      <webElementGuid>37e99ffe-6a74-4e19-abde-6a40aa9fac67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-cards&quot;)/div[@class=&quot;content-card&quot;]/div[@class=&quot;card-event show&quot;]/div[@class=&quot;card-button pt-0&quot;]/a[1]</value>
+      <webElementGuid>524c7109-d7aa-4827-94e9-879c1e3b55d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-cards']/div[3]/div[7]/div[3]/a</value>
+      <webElementGuid>17796698-b625-4918-b6eb-998bb6f94061</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Lihat Detail')])[7]</value>
+      <webElementGuid>d03a4d8b-3755-4fa9-82ae-d841a30d02fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Trainee Academy'])[1]/following::a[1]</value>
+      <webElementGuid>c5836eb3-741d-43d8-9b02-b8be897ebba6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lihat Detail'])[6]/following::a[3]</value>
+      <webElementGuid>05c784f5-7687-40b4-b7f6-f1f54350c46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='❮'])[1]/preceding::a[1]</value>
+      <webElementGuid>8a64d6f5-57b4-4855-b49b-94eac17acefe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='❯'])[1]/preceding::a[3]</value>
+      <webElementGuid>ed95985e-46c2-4d60-8c42-516505b59ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.ruangguru.com/program/sales-trainee-academy')])[3]</value>
+      <webElementGuid>8013e885-d9f0-4118-9dfa-360a3c51a4d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div[3]/a</value>
+      <webElementGuid>05a6eddb-d0fe-4c30-9d67-fbb17f2102f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ruangguru.com/program/sales-trainee-academy' and (text() = 'Lihat Detail' or . = 'Lihat Detail')]</value>
+      <webElementGuid>de631449-f8ef-4d35-9ab7-2bf19c54fbb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

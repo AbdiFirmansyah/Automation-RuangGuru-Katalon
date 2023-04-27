@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Beasiswa</name>
+   <tag></tag>
+   <elementGuidId>26c56042-1182-4edc-9a7c-17ab04000970</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='rg-header']/div/div/div[2]/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b56673ea-2792-4f5a-9a8e-ffc205359878</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>navig-link</value>
+      <webElementGuid>16eadcc2-a538-4bdb-bc3c-a18ce08a697b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    Beasiswa
+                </value>
+      <webElementGuid>aabe4e4c-d215-4207-ac09-d07ad662d13b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rg-header&quot;)/div[@class=&quot;page-center hero-center&quot;]/div[@class=&quot;container-ruangguru-header&quot;]/div[@class=&quot;navigation__content&quot;]/div[@class=&quot;navig-link&quot;]</value>
+      <webElementGuid>a4b1eaad-9666-4efd-9203-d5b1c0fca2b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='rg-header']/div/div/div[2]/div[6]</value>
+      <webElementGuid>8aa7cffe-80f3-43b0-a32a-25b7b52078da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Event'])[1]/following::div[1]</value>
+      <webElementGuid>b1e5b5fe-9bec-49bd-859d-5edf74271358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::div[2]</value>
+      <webElementGuid>380e51ee-8507-489d-a44a-315a084dc923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimoni'])[1]/preceding::div[1]</value>
+      <webElementGuid>1f814938-a1bb-48a1-a1dc-771abd18cbde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]</value>
+      <webElementGuid>b16756a0-87b1-47fa-adad-1a7e1a8cec58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                    Beasiswa
+                ' or . = '
+                    Beasiswa
+                ')]</value>
+      <webElementGuid>e1856507-7686-41f3-a768-dad6a93eca49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

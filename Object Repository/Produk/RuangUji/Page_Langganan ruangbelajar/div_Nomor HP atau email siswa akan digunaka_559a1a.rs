@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Nomor HP atau email siswa akan digunaka_559a1a</name>
+   <tag></tag>
+   <elementGuidId>66839c90-6f42-4a64-8092-bddc1ba21046</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-w6nsgv</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div/div[5]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3c8cd0cb-155a-462e-a839-a1e2bc0efeb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-w6nsgv</value>
+      <webElementGuid>00fa2dcd-46e7-4ec7-ac8d-33f5cdefb38a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-1xmo2e7&quot;]/div[@class=&quot;css-uiz9ma&quot;]/div[@class=&quot;css-8atqhb&quot;]/div[@class=&quot;chakra-container css-md8tv9&quot;]/div[@class=&quot;css-q45nvu&quot;]/div[@class=&quot;css-11a6yb5&quot;]/div[@class=&quot;css-y6rebz&quot;]/div[@class=&quot;css-1h7amoq&quot;]/div[@class=&quot;css-w6nsgv&quot;]</value>
+      <webElementGuid>e34dd35f-af31-416a-9209-65fd776ed16e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div[2]/div/div[2]/div/div[5]/div</value>
+      <webElementGuid>9bb898f0-fc5b-46dd-9fc6-542a9c0c282a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[5]/div</value>
+      <webElementGuid>2f78389d-7cc7-4ed4-b60d-1a14a15513b9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

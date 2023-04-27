@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Learning Acceleration Program</name>
+   <tag></tag>
+   <elementGuidId>e485c930-4d04-49d5-9eed-e8d26293a874</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.subtitle-base.font-dark.font-bold</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='hs_cos_wrapper_module_1617879891753112']/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>2d01e031-bd0a-4e34-9414-dc875837c768</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>subtitle-base font-dark font-bold</value>
+      <webElementGuid>5cc3f524-43fb-4150-a9a5-6bcaed76e69e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learning Acceleration Program</value>
+      <webElementGuid>4ccd3a94-20a0-48ba-99b2-4e978b836230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;hs_cos_wrapper_module_1617879891753112&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 col-sm-12 my-auto leap__left&quot;]/div[@class=&quot;my-auto&quot;]/div[1]/h2[@class=&quot;subtitle-base font-dark font-bold&quot;]</value>
+      <webElementGuid>fb4d2f46-5361-44ab-9c17-ac87d054113b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='hs_cos_wrapper_module_1617879891753112']/div/div/div/div/h2</value>
+      <webElementGuid>b6664330-1d55-4af6-9d71-d98d28b4921a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/following::h2[1]</value>
+      <webElementGuid>c28f7d39-7942-437e-8f1d-a78dd32522bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registration Closed'])[1]/preceding::h2[1]</value>
+      <webElementGuid>61ce342e-056b-4391-89c8-ba81ef22c622</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What’s the difference?'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e05f8f04-8fb4-4b35-ade3-20da95e68d06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>d63930cd-40cb-420f-94b1-a3446e34764c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Learning Acceleration Program' or . = 'Learning Acceleration Program')]</value>
+      <webElementGuid>b3d17acf-e660-4015-a630-491bba9495bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
