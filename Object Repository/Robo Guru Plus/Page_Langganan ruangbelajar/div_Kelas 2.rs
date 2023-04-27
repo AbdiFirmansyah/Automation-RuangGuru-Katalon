@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kelas 2</name>
+   <tag></tag>
+   <elementGuidId>1e64e25d-3018-413b-b551-25a85ea7edef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='chakra-modal--body-14']/div/div[2])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1da96d7-19cd-4eab-a2b0-e932091bc0f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-bmnq0u</value>
+      <webElementGuid>d0334fd3-2990-4391-b60d-342149f46385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kelas 2</value>
+      <webElementGuid>502547cb-f6e1-45b8-85ba-0c870a297ab8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;chakra-modal-14&quot;)/div[@id=&quot;chakra-modal--body-14&quot;]/div[@class=&quot;css-em0uk8&quot;]/div[@class=&quot;css-bmnq0u&quot;]</value>
+      <webElementGuid>65deb55e-2db6-4a8c-afab-826e324141df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='chakra-modal--body-14']/div/div[2])[2]</value>
+      <webElementGuid>8ac706ec-7157-4252-adaa-9174e7d8962f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data produk tidak ditemukan, coba pilih kelas lain.'])[1]/following::div[22]</value>
+      <webElementGuid>8cef4501-bc31-4b57-a7d5-e18c754f8db8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk / Daftar'])[1]/following::div[62]</value>
+      <webElementGuid>b936fe0c-d92d-402c-86cf-8fbea6216455</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Simpan'])[1]/preceding::div[5]</value>
+      <webElementGuid>4b79835d-f7ff-42b8-9280-8795f0f24e39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/div/div[2]</value>
+      <webElementGuid>2dfdb9d4-683c-4d9a-9acb-78b38bc4fddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kelas 2' or . = 'Kelas 2')]</value>
+      <webElementGuid>a65bf083-c592-4783-9a65-9855c8be5af1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

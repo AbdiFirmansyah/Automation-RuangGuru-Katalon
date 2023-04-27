@@ -17,3 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/Robo Guru/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/Robo Guru/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Produk'))
+
+WebUI.click(findTestObject('Object Repository/Robo Guru/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Foto dan upload soal susahmu dan dapatk_69f96b'))
+
+WebUI.click(findTestObject('Object Repository/Robo Guru/Page_Solusi Pengerjaan Soal Pelajaran Sulit_e31362/svg_Bantu Kamu Jawab Soal dengan Tepat, Cep_ad866d'))
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Robo Guru/Page_Solusi Pengerjaan Soal Pelajaran Sulit_e31362/select_SDSMPSMAUTBKSNBT'), 
+    'XHAGLMC2TA', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Robo Guru/Page_Solusi Pengerjaan Soal Pelajaran Sulit_e31362/select_MatematikaFisikaBiologiBahasa Indone_d51509'), 
+    'bahasa-indonesia', true)
+
+WebUI.click(findTestObject('Object Repository/Robo Guru/Page_Solusi Pengerjaan Soal Pelajaran Sulit_e31362/button_Masuk'))
+
+WebUI.click(findTestObject('Object Repository/Robo Guru/Page_Ruangguru/div_Masukkan nomor HP atau email'))
+
+WebUI.setText(findTestObject('Object Repository/Robo Guru/Page_Ruangguru/input_Masukkan nomor HP atau email_emailOrPhone'), 
+    'abdifirmansyah72@gmail.com')
+
+WebUI.closeBrowser()
+

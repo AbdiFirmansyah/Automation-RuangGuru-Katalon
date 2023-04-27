@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_SDSMPSMAUTBKSNBT</name>
+   <tag></tag>
+   <elementGuidId>dae3deb9-ebea-4205-984e-83911950453e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>select.chakra-select.css-1xhxhym</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div[2]/form/div/div/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>943f9eeb-6d9b-4bf0-8629-d22c00f9d81b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>chakra-select css-1xhxhym</value>
+      <webElementGuid>ab226cd4-b7fa-476f-b70b-77e4c369ca84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SDSMPSMAUTBK/SNBT</value>
+      <webElementGuid>dacfe7a6-0dc2-4b19-a7b6-36a95c4ac7e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;css-cdszjk&quot;]/div[@class=&quot;css-1sttl7&quot;]/div[@class=&quot;css-13gnsmc&quot;]/form[@class=&quot;chakra-stack css-18c5irk&quot;]/div[@class=&quot;chakra-stack css-1h4927&quot;]/div[@class=&quot;chakra-select__wrapper css-1t5lkjj&quot;]/select[@class=&quot;chakra-select css-1xhxhym&quot;]</value>
+      <webElementGuid>d2bb7107-17e1-4f98-a3d0-5c01e06087ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div[2]/form/div/div/select</value>
+      <webElementGuid>3c4746a3-22ae-40c1-a003-b51ba603bfb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bantu Kamu Jawab Soal dengan Tepat, Cepat, dan Gratis!'])[1]/following::select[1]</value>
+      <webElementGuid>ff70efcd-21eb-489f-8f44-158b91c07559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/following::select[1]</value>
+      <webElementGuid>6e018b35-8879-4ac0-8fa4-8dba6299906b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='roboguru'])[1]/preceding::select[2]</value>
+      <webElementGuid>d0e856af-4c30-4595-8447-c073808523d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>230889ac-822b-425a-bbb0-a6c62bb47480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = 'SDSMPSMAUTBK/SNBT' or . = 'SDSMPSMAUTBK/SNBT')]</value>
+      <webElementGuid>0d829fff-faa6-4b02-8ac5-2bf39a5ca02a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

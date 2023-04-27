@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.maximizeWindow()
+
+WebUI.navigateToUrl('https://www.ruangguru.com/')
+
+WebUI.click(findTestObject('Object Repository/Dafa and lulu/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/span_'))
+
+WebUI.click(findTestObject('Object Repository/Dafa and lulu/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/a_Produk'))
+
+WebUI.click(findTestObject('Object Repository/Dafa and lulu/Page_Aplikasi Bimbel Online Interaktif Terb_6681bc/div_Belajar bersama Dafa, Lulu, dan teman p_aef478'))
+
+WebUI.click(findTestObject('Object Repository/Dafa and lulu/Page_Pembelajaran Interaktif Beranimasi Pet_99c677/button_Kelas 2'))
+
+WebUI.click(findTestObject('Object Repository/Dafa and lulu/Page_Pembelajaran Interaktif Beranimasi Pet_99c677/a_Langganan Sekarang'))
+
+WebUI.switchToWindowTitle('Langganan ruangbelajar')
+
+WebUI.click(findTestObject('Object Repository/Dafa and lulu/Page_Langganan ruangbelajar/button_Data produk tidak ditemukan, coba pi_41139d'))
+
+WebUI.closeBrowser()
+

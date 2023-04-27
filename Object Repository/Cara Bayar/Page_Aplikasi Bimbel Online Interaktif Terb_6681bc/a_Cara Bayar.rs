@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cara Bayar</name>
+   <tag></tag>
+   <elementGuidId>f0ae136b-6dd2-4883-bcd2-ab5e395cb30b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='services_item']/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a98e9da0-3ed7-46a0-91b8-c7c76f0066aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tracking-event-type</name>
+      <type>Main</type>
+      <value>landing_page__core__item_click</value>
+      <webElementGuid>c108eeb8-7702-4b07-a36e-8563a48e1384</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-tracking-context</name>
+      <type>Main</type>
+      <value>{&quot;product_name&quot;: &quot;ruangguru&quot;,&quot;cta_action&quot;: &quot;redirection&quot;,&quot;cta_action_detail&quot;: &quot;https://www.ruangguru.com/cara-bayar&quot;,&quot;item_type&quot;: &quot;link&quot;,&quot;item_name&quot;: &quot;Cara Bayar&quot;,&quot;item_category&quot;: &quot;cta&quot;,&quot;item_position&quot;: 7,&quot;item_serial&quot;: null,&quot;section_type&quot;: &quot;navbar&quot;,&quot;section_position&quot;: &quot;header&quot;,&quot;section_name&quot;: &quot;header_navbar&quot;}</value>
+      <webElementGuid>2ed49882-b82d-4b14-85c5-b3649e1aa859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.ruangguru.com/cara-bayar</value>
+      <webElementGuid>202babc2-817c-4797-94de-35d70843ff01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cara Bayar</value>
+      <webElementGuid>7075192e-c400-4519-9568-cc95fcc42782</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;services_item&quot;)/div[@class=&quot;item-services&quot;]/a[1]</value>
+      <webElementGuid>208aec27-63be-4598-a668-cda3bc887c17</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='services_item']/div[2]/a</value>
+      <webElementGuid>816c8549-e660-42d8-9f76-53391becfb15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cara Bayar')]</value>
+      <webElementGuid>cb3754fb-e104-4b69-8310-3e74c380c1e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cara Perpanjang Paket'])[1]/following::a[1]</value>
+      <webElementGuid>f3d60e58-2cda-4c73-a3e9-32aef80f8958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimoni'])[1]/following::a[3]</value>
+      <webElementGuid>445a8d00-8bbb-4a9f-bfed-1050dffdfbe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cicilan'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab127750-f23a-4e0e-b485-7b361988a3cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ruangbaca'])[1]/preceding::a[2]</value>
+      <webElementGuid>09a86d37-87b0-4609-adc1-73f1702aa1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cara Bayar']/parent::*</value>
+      <webElementGuid>15e56419-dbbb-49ff-ac9b-e6099f96e19e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.ruangguru.com/cara-bayar')]</value>
+      <webElementGuid>a0f599b2-dc0f-4274-b471-bb17a1e28e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[2]/a</value>
+      <webElementGuid>9343b806-2c79-4ecf-933f-85411afd7c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.ruangguru.com/cara-bayar' and (text() = 'Cara Bayar' or . = 'Cara Bayar')]</value>
+      <webElementGuid>5f43dbd2-7575-4177-9faa-23e81edd8fa4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
