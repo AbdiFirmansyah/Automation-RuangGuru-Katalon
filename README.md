@@ -3,10 +3,10 @@
   
 Navigate to https://www.ruangguru.com/ for further details.
 
-A. Deskripsi Project
+A. Deskripsi Project<br>
    → Ruangguru adalah platform pembelajaran berbasis kurikulum sekolah melalui video tutorial interaktif oleh guru dan animasi di aplikasi ponsel dan       komputer. 
    
-B. Tugas Test Case
+B. Tugas Test Case <br>
    ☛ Test fiture produk :
    
    - Kukuh Pradipto 
@@ -50,9 +50,9 @@ B. Tugas Test Case
      ▸ MacOs Version Catalina 10.15.07
      ▸ MacOs Version Ventura 13.1
      
- D. Team Member
-     ▸ https://github.com/kukuhpradipto
-     ▸ https://github.com/viskiarditia
+ D. Team Member<br>
+     ▸ https://github.com/kukuhpradipto <br>
+     ▸ https://github.com/viskiarditia<br>
      ▸ https://github.com/AbdiFirmansyah
     
      
