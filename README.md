@@ -7,7 +7,7 @@ A. Deskripsi Project<br>
    → Ruangguru adalah platform pembelajaran berbasis kurikulum sekolah melalui video tutorial interaktif oleh guru dan animasi di aplikasi ponsel dan       komputer. 
    
 B. Tugas Test Case <br>
-   ☛ Test fiture produk :
+   ☛ Test feature produk :
    
    - Kukuh Pradipto 
      a. Ruang Kelas
